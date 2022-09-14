@@ -1,0 +1,15 @@
+<mat-card class="example-card">
+  <mat-card-header style="width: 100%;">
+    <mat-card-title class="title" *ngIf="word">
+      <h1 style="width: 100%; text-align: center">{{word.word}}</h1>
+      <h2 style="width: 100%; text-align: center; text-transform: capitalize">{{word.translate}}</h2>
+      <h3 style="width: 100%; text-align: center">{{word.transcript}}</h3>
+    </mat-card-title>
+  </mat-card-header>
+  <mat-card-actions>
+    <div style="display: flex; justify-content: space-between">
+      <button style="width: 100px" mat-raised-button color="primary" [disabled]="wordIndex <= 0" (click)="prev()">PREV</button>
+      <button style="width: 100px" mat-raised-button color="primary" [disabled]="wordIndex >= words.length - 1" (click)="next()">NEXT</button>
+    </div>
+  </mat-card-actions>
+</mat-card>

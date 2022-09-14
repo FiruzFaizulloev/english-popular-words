@@ -1,0 +1,12 @@
+:host {
+  display: block;
+  width: 100%;
+}
+
+.example-card {
+  width: 100%;
+
+}
+::ng-deep .mat-card-header-text {
+  width: 100%;
+}
