@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "word": "as",
+    "transcript": "[ æz ]",
+    "translate": "как"
+  },
+  {
+    "id": 2,
+    "word": "I",
+    "transcript": "[ aɪ ]",
+    "translate": "я"
+  },
+  {
+    "id": 3,
+    "word": "his",
+    "transcript": "[ hɪz ]",
+    "translate": "его"
+  },
+  {
+    "id": 4,
+    "word": "that",
+    "transcript": "[ ðæt ]",
+    "translate": "что / тот"
+  },
+  {
+    "id": 5,
+    "word": "he",
+    "transcript": "[ hiː ]",
+    "translate": "он"
+  },
+  {
+    "id": 6,
+    "word": "was",
+    "transcript": "[ wɒz ]",
+    "translate": "был"
+  },
+  {
+    "id": 7,
+    "word": "for",
+    "transcript": "[ fɔː r]",
+    "translate": "для"
+  },
+  {
+    "id": 8,
+    "word": "on",
+    "transcript": "[ ɒn ]",
+    "translate": "на"
+  },
+  {
+    "id": 9,
+    "word": "are",
+    "transcript": "[ ɑː r]",
+    "translate": "являются"
+  },
+  {
+    "id": 10,
+    "word": "with",
+    "transcript": "[ wɪð ]",
+    "translate": "с"
+  },
+  {
+    "id": 11,
+    "word": "they",
+    "transcript": "[ ðeɪ ]",
+    "translate": "они"
+  },
+  {
+    "id": 12,
+    "word": "be",
+    "transcript": "[ biː ]",
+    "translate": "быть"
+  },
+  {
+    "id": 13,
+    "word": "at",
+    "transcript": "[ ət ]",
+    "translate": "на"
+  },
+  {
+    "id": 14,
+    "word": "one",
+    "transcript": "[ wʌn ]",
+    "translate": "один"
+  },
+  {
+    "id": 15,
+    "word": "have",
+    "transcript": "[ hæv ]",
+    "translate": "иметь"
+  },
+  {
+    "id": 16,
+    "word": "this",
+    "transcript": "[ ðɪs ]",
+    "translate": "это"
+  },
+  {
+    "id": 17,
+    "word": "from",
+    "transcript": "[ frɒm ]",
+    "translate": "из"
+  },
+  {
+    "id": 18,
+    "word": "by",
+    "transcript": "[ baɪ ]",
+    "translate": "от"
+  },
+  {
+    "id": 19,
+    "word": "hot",
+    "transcript": "[ hɒt ]",
+    "translate": "горячий / жарко"
+  },
+  {
+    "id": 20,
+    "word": "word",
+    "transcript": "[ wɜːd ]",
+    "translate": "слово"
+  },
+  {
+    "id": 21,
+    "word": "but",
+    "transcript": "[ bʌt ]",
+    "translate": "но"
+  },
+  {
+    "id": 22,
+    "word": "what",
+    "transcript": "[ wɒt ]",
+    "translate": "что"
+  },
+  {
+    "id": 23,
+    "word": "some",
+    "transcript": "[ sʌm ]",
+    "translate": "некоторый"
+  },
+  {
+    "id": 24,
+    "word": "is",
+    "transcript": "[ ɪz ]",
+    "translate": "является"
+  },
+  {
+    "id": 25,
+    "word": "it",
+    "transcript": "[ ɪt ]",
+    "translate": "это"
+  },
+  {
+    "id": 26,
+    "word": "you",
+    "transcript": "[ juː ]",
+    "translate": "ты"
+  },
+  {
+    "id": 27,
+    "word": "or",
+    "transcript": "[ ɔː r]",
+    "translate": "или"
+  },
+  {
+    "id": 28,
+    "word": "had",
+    "transcript": "[ hæd ]",
+    "translate": "имел"
+  },
+  {
+    "id": 29,
+    "word": "the",
+    "transcript": "[ ðiː ]",
+    "translate": "the [ ðiː ]"
+  },
+  {
+    "id": 30,
+    "word": "of",
+    "transcript": "[ əv ]",
+    "translate": "из / о"
+  },
+  {
+    "id": 31,
+    "word": "to",
+    "transcript": "[ tuː ]",
+    "translate": "в / к"
+  },
+  {
+    "id": 32,
+    "word": "and",
+    "transcript": "[ ænd ]",
+    "translate": "и"
+  },
+  {
+    "id": 33,
+    "word": "a",
+    "transcript": "[ ə ]",
+    "translate": "a [ ə ]"
+  },
+  {
+    "id": 34,
+    "word": "in",
+    "transcript": "[ ɪn ]",
+    "translate": "в"
+  },
+  {
+    "id": 35,
+    "word": "we",
+    "transcript": "[ wiː ]",
+    "translate": "мы"
+  },
+  {
+    "id": 36,
+    "word": "can",
+    "transcript": "[ kæn ]",
+    "translate": "может"
+  },
+  {
+    "id": 37,
+    "word": "out",
+    "transcript": "[ aʊt ]",
+    "translate": "из / вне"
+  },
+  {
+    "id": 38,
+    "word": "other",
+    "transcript": "[ ˈʌð.ə r]",
+    "translate": "другой"
+  },
+  {
+    "id": 39,
+    "word": "were",
+    "transcript": "[ wɜː r]",
+    "translate": "были"
+  },
+  {
+    "id": 40,
+    "word": "which",
+    "transcript": "[ wɪtʃ ]",
+    "translate": "который"
+  },
+  {
+    "id": 41,
+    "word": "do",
+    "transcript": "[ duː ]",
+    "translate": "делать"
+  },
+  {
+    "id": 42,
+    "word": "their",
+    "transcript": "[ ðeə r]",
+    "translate": "их"
+  },
+  {
+    "id": 43,
+    "word": "time",
+    "transcript": "[ taɪm ]",
+    "translate": "время"
+  },
+  {
+    "id": 44,
+    "word": "if",
+    "transcript": "[ ɪf ]",
+    "translate": "если"
+  },
+  {
+    "id": 45,
+    "word": "will",
+    "transcript": "[wɪl]",
+    "translate": "будет"
+  },
+  {
+    "id": 46,
+    "word": "how",
+    "transcript": "[ haʊ ]",
+    "translate": "как"
+  },
+  {
+    "id": 47,
+    "word": "said",
+    "transcript": "[ sed ]",
+    "translate": "говорить"
+  },
+  {
+    "id": 48,
+    "word": "an",
+    "transcript": "[ æn ]",
+    "translate": "an [ æn ]"
+  },
+  {
+    "id": 49,
+    "word": "each",
+    "transcript": "[ iːtʃ ]",
+    "translate": "каждый"
+  },
+  {
+    "id": 50,
+    "word": "tell",
+    "transcript": "[ tel ]",
+    "translate": "говорить"
+  },
+  {
+    "id": 51,
+    "word": "does",
+    "transcript": "[ dʌz ]",
+    "translate": "делает"
+  },
+  {
+    "id": 52,
+    "word": "set",
+    "transcript": "[ set ]",
+    "translate": "задавать / комплект"
+  },
+  {
+    "id": 53,
+    "word": "three",
+    "transcript": "[ θriː ]",
+    "translate": "три"
+  },
+  {
+    "id": 54,
+    "word": "want",
+    "transcript": "[ wɒnt ]",
+    "translate": "хотеть"
+  },
+  {
+    "id": 55,
+    "word": "air",
+    "transcript": "[ eə r]",
+    "translate": "воздух"
+  },
+  {
+    "id": 56,
+    "word": "well",
+    "transcript": "[wel]",
+    "translate": "хорошо"
+  },
+  {
+    "id": 57,
+    "word": "also",
+    "transcript": "[ ˈɔːl.səʊ ]",
+    "translate": "также"
+  },
+  {
+    "id": 58,
+    "word": "play",
+    "transcript": "[ pleɪ ]",
+    "translate": "играть"
+  },
+  {
+    "id": 59,
+    "word": "small",
+    "transcript": "[ smɔːl ]",
+    "translate": "маленький"
+  },
+  {
+    "id": 60,
+    "word": "end",
+    "transcript": "[ end ]",
+    "translate": "конец"
+  },
+  {
+    "id": 61,
+    "word": "put",
+    "transcript": "[ pʊt ]",
+    "translate": "ставить"
+  },
+  {
+    "id": 62,
+    "word": "home",
+    "transcript": "[ həʊm ]",
+    "translate": "дом"
+  },
+  {
+    "id": 63,
+    "word": "read",
+    "transcript": "[ riːd ]",
+    "translate": "читать"
+  },
+  {
+    "id": 64,
+    "word": "hand",
+    "transcript": "[ hænd ]",
+    "translate": "рука"
+  },
+  {
+    "id": 65,
+    "word": "port",
+    "transcript": "[ pɔːt ]",
+    "translate": "порт"
+  },
+  {
+    "id": 66,
+    "word": "large",
+    "transcript": "[ lɑːdʒ ]",
+    "translate": "большой"
+  },
+  {
+    "id": 67,
+    "word": "spell",
+    "transcript": "[ spel ]",
+    "translate": "читать по буквам / орфография"
+  },
+  {
+    "id": 68,
+    "word": "add",
+    "transcript": "[ æd ]",
+    "translate": "добавлять"
+  },
+  {
+    "id": 69,
+    "word": "even",
+    "transcript": "[ ˈiː.v ə n ]",
+    "translate": "даже"
+  },
+  {
+    "id": 70,
+    "word": "land",
+    "transcript": "[ lænd ]",
+    "translate": "земля"
+  },
+  {
+    "id": 71,
+    "word": "here",
+    "transcript": "[ hɪə r]",
+    "translate": "здесь"
+  },
+  {
+    "id": 72,
+    "word": "must",
+    "transcript": "[ mʌst ]",
+    "translate": "должен"
+  },
+  {
+    "id": 73,
+    "word": "big",
+    "transcript": "[ bɪɡ ]",
+    "translate": "большой"
+  },
+  {
+    "id": 74,
+    "word": "high",
+    "transcript": "[ haɪ ]",
+    "translate": "высокий"
+  },
+  {
+    "id": 75,
+    "word": "such",
+    "transcript": "[ sʌtʃ ]",
+    "translate": "такой"
+  },
+  {
+    "id": 76,
+    "word": "follow",
+    "transcript": "[ ˈfɒl.əʊ ]",
+    "translate": "следовать"
+  },
+  {
+    "id": 77,
+    "word": "act",
+    "transcript": "[ ækt ]",
+    "translate": "действовать"
+  },
+  {
+    "id": 78,
+    "word": "why",
+    "transcript": "[ waɪ ]",
+    "translate": "почему"
+  },
+  {
+    "id": 79,
+    "word": "ask",
+    "transcript": "[ ɑːsk ]",
+    "translate": "спрашивать"
+  },
+  {
+    "id": 80,
+    "word": "men",
+    "transcript": "[men]",
+    "translate": "люди"
+  },
+  {
+    "id": 81,
+    "word": "change",
+    "transcript": "[ tʃeɪndʒ ]",
+    "translate": "менять"
+  },
+  {
+    "id": 82,
+    "word": "went",
+    "transcript": "[ went ]",
+    "translate": "отправился"
+  },
+  {
+    "id": 83,
+    "word": "light",
+    "transcript": "[ laɪt ]",
+    "translate": "свет / легкий"
+  },
+  {
+    "id": 84,
+    "word": "kind",
+    "transcript": "[ kaɪnd ]",
+    "translate": "добрый / разновидность"
+  },
+  {
+    "id": 85,
+    "word": "off",
+    "transcript": "[ ɒf ]",
+    "translate": "от / выключенный"
+  },
+  {
+    "id": 86,
+    "word": "need",
+    "transcript": "[ niːd ]",
+    "translate": "необходимость"
+  },
+  {
+    "id": 87,
+    "word": "house",
+    "transcript": "[ haʊs ]",
+    "translate": "дом"
+  },
+  {
+    "id": 88,
+    "word": "picture",
+    "transcript": "[ ˈpɪk.tʃə r]",
+    "translate": "картина / фото"
+  },
+  {
+    "id": 89,
+    "word": "try",
+    "transcript": "[ traɪ ]",
+    "translate": "пробовать / пытаться"
+  },
+  {
+    "id": 90,
+    "word": "us",
+    "transcript": "[ ʌs ]",
+    "translate": "нас"
+  },
+  {
+    "id": 91,
+    "word": "again",
+    "transcript": "[ əˈɡen ]",
+    "translate": "снова"
+  },
+  {
+    "id": 92,
+    "word": "animal",
+    "transcript": "[ ˈæn.ɪ.məl ]",
+    "translate": "животное"
+  },
+  {
+    "id": 93,
+    "word": "point",
+    "transcript": "[ pɔɪnt ]",
+    "translate": "точка"
+  },
+  {
+    "id": 94,
+    "word": "mother",
+    "transcript": "[ ˈmʌð.ə r]",
+    "translate": "мать"
+  },
+  {
+    "id": 95,
+    "word": "world",
+    "transcript": "[ wɜːld ]",
+    "translate": "мир"
+  },
+  {
+    "id": 96,
+    "word": "near",
+    "transcript": "[ nɪə r]",
+    "translate": "близко"
+  },
+  {
+    "id": 97,
+    "word": "build",
+    "transcript": "[ bɪld ]",
+    "translate": "строить"
+  },
+  {
+    "id": 98,
+    "word": "self",
+    "transcript": "[ self ]",
+    "translate": "себя"
+  },
+  {
+    "id": 99,
+    "word": "earth",
+    "transcript": "[ ɜːθ ]",
+    "translate": "земля"
+  },
+  {
+    "id": 100,
+    "word": "father",
+    "transcript": "[ ˈfɑː.ðə r]",
+    "translate": "отец"
+  },
+  {
+    "id": 101,
+    "word": "any",
+    "transcript": "[ ˈen.i ]",
+    "translate": "любой"
+  },
+  {
+    "id": 102,
+    "word": "new",
+    "transcript": "[ njuː ]",
+    "translate": "новый"
+  },
+  {
+    "id": 103,
+    "word": "work",
+    "transcript": "[ wɜːk ]",
+    "translate": "работа"
+  },
+  {
+    "id": 104,
+    "word": "part",
+    "transcript": "[pɑːt]",
+    "translate": "часть"
+  },
+  {
+    "id": 105,
+    "word": "take",
+    "transcript": "[ teɪk ]",
+    "translate": "брать"
+  },
+  {
+    "id": 106,
+    "word": "get",
+    "transcript": "[get]",
+    "translate": "получать"
+  },
+  {
+    "id": 107,
+    "word": "place",
+    "transcript": "[ pleɪs ]",
+    "translate": "место"
+  },
+  {
+    "id": 108,
+    "word": "made",
+    "transcript": "[ meɪd ]",
+    "translate": "сделать"
+  },
+  {
+    "id": 109,
+    "word": "live",
+    "transcript": "[ lɪv ]",
+    "translate": "жить"
+  },
+  {
+    "id": 110,
+    "word": "where",
+    "transcript": "[ weə r]",
+    "translate": "где"
+  },
+  {
+    "id": 111,
+    "word": "after",
+    "transcript": "[ ˈɑːf.tə r]",
+    "translate": "после"
+  },
+  {
+    "id": 112,
+    "word": "back",
+    "transcript": "[ bæk ]",
+    "translate": "назад"
+  },
+  {
+    "id": 113,
+    "word": "little",
+    "transcript": "[ˈlɪt.əl]",
+    "translate": "немного"
+  },
+  {
+    "id": 114,
+    "word": "only",
+    "transcript": "[ ˈəʊn.li ]",
+    "translate": "только"
+  },
+  {
+    "id": 115,
+    "word": "round",
+    "transcript": "[ raʊnd ]",
+    "translate": "круглый / вокруг"
+  },
+  {
+    "id": 116,
+    "word": "man",
+    "transcript": "[ mæn ]",
+    "translate": "мужчина"
+  },
+  {
+    "id": 117,
+    "word": "year",
+    "transcript": "[ jɪə r]",
+    "translate": "год"
+  },
+  {
+    "id": 118,
+    "word": "came",
+    "transcript": "[ keɪm ]",
+    "translate": "пришел"
+  },
+  {
+    "id": 119,
+    "word": "show",
+    "transcript": "[ ʃəʊ ]",
+    "translate": "показывать"
+  },
+  {
+    "id": 120,
+    "word": "every",
+    "transcript": "[ ˈev.ri ]",
+    "translate": "каждый"
+  },
+  {
+    "id": 121,
+    "word": "good",
+    "transcript": "[ ɡʊd ]",
+    "translate": "хороший"
+  },
+  {
+    "id": 122,
+    "word": "me",
+    "transcript": "[ miː ]",
+    "translate": "мне"
+  },
+  {
+    "id": 123,
+    "word": "give",
+    "transcript": "[ ɡɪv ]",
+    "translate": "давать"
+  },
+  {
+    "id": 124,
+    "word": "our",
+    "transcript": "[ aʊə r]",
+    "translate": "наш"
+  },
+  {
+    "id": 125,
+    "word": "under",
+    "transcript": "[ ˈʌn.də r]",
+    "translate": "под"
+  },
+  {
+    "id": 126,
+    "word": "name",
+    "transcript": "[ neɪm ]",
+    "translate": "имя"
+  },
+  {
+    "id": 127,
+    "word": "very",
+    "transcript": "[ ˈver.i ]",
+    "translate": "очень"
+  },
+  {
+    "id": 128,
+    "word": "through",
+    "transcript": "[ θruː ]",
+    "translate": "через"
+  },
+  {
+    "id": 129,
+    "word": "just",
+    "transcript": "[ dʒʌst ]",
+    "translate": "только / просто"
+  },
+  {
+    "id": 130,
+    "word": "form",
+    "transcript": "[ fɔːm ]",
+    "translate": "вид, форма / образовывать"
+  },
+  {
+    "id": 131,
+    "word": "sentence",
+    "transcript": "[ ˈsen.təns ]",
+    "translate": "предложение"
+  },
+  {
+    "id": 132,
+    "word": "great",
+    "transcript": "[ ɡreɪt ]",
+    "translate": "отличный"
+  },
+  {
+    "id": 133,
+    "word": "think",
+    "transcript": "[ θɪŋk ]",
+    "translate": "думать"
+  },
+  {
+    "id": 134,
+    "word": "say",
+    "transcript": "[ seɪ ]",
+    "translate": "говорить"
+  },
+  {
+    "id": 135,
+    "word": "help",
+    "transcript": "[help]",
+    "translate": "помогать, помощь"
+  },
+  {
+    "id": 136,
+    "word": "low",
+    "transcript": "[ ləʊ]",
+    "translate": "низкий"
+  },
+  {
+    "id": 137,
+    "word": "line",
+    "transcript": "[ laɪn ]",
+    "translate": "линия, черта"
+  },
+  {
+    "id": 138,
+    "word": "differ",
+    "transcript": "[ ˈdɪf.ə r]",
+    "translate": "отличаться"
+  },
+  {
+    "id": 139,
+    "word": "turn",
+    "transcript": "[ tɜːn ]",
+    "translate": "поворачивать"
+  },
+  {
+    "id": 140,
+    "word": "cause",
+    "transcript": "[ kɔːz ]",
+    "translate": "причина"
+  },
+  {
+    "id": 141,
+    "word": "much",
+    "transcript": "[ mʌtʃ ]",
+    "translate": "много"
+  },
+  {
+    "id": 142,
+    "word": "mean",
+    "transcript": "[miːn]",
+    "translate": "значить / подлый / средний"
+  },
+  {
+    "id": 143,
+    "word": "before",
+    "transcript": "[ bɪˈfɔː r]",
+    "translate": "до"
+  },
+  {
+    "id": 144,
+    "word": "move",
+    "transcript": "[ muːv ]",
+    "translate": "двигать"
+  },
+  {
+    "id": 145,
+    "word": "right",
+    "transcript": "[ raɪt ]",
+    "translate": "право / верный"
+  },
+  {
+    "id": 146,
+    "word": "boy",
+    "transcript": "[ bɔɪ ]",
+    "translate": "мальчик"
+  },
+  {
+    "id": 147,
+    "word": "old",
+    "transcript": "[ əʊld ]",
+    "translate": "старый"
+  },
+  {
+    "id": 148,
+    "word": "too",
+    "transcript": "[ tuː ]",
+    "translate": "тоже"
+  },
+  {
+    "id": 149,
+    "word": "same",
+    "transcript": "[ seɪm ]",
+    "translate": "также"
+  },
+  {
+    "id": 150,
+    "word": "she",
+    "transcript": "[ ʃiː ]",
+    "translate": "она"
+  },
+  {
+    "id": 151,
+    "word": "all",
+    "transcript": "[ ɔːl ]",
+    "translate": "все"
+  },
+  {
+    "id": 152,
+    "word": "there",
+    "transcript": "[ ðeə r]",
+    "translate": "там"
+  },
+  {
+    "id": 153,
+    "word": "when",
+    "transcript": "[ wen ]",
+    "translate": "когда"
+  },
+  {
+    "id": 154,
+    "word": "up",
+    "transcript": "[ ʌp ]",
+    "translate": "вверх / подниматься"
+  },
+  {
+    "id": 155,
+    "word": "use",
+    "transcript": "[ juːz ]",
+    "translate": "использовать"
+  },
+  {
+    "id": 156,
+    "word": "your",
+    "transcript": "[ jɔː r]",
+    "translate": "твой"
+  },
+  {
+    "id": 157,
+    "word": "way",
+    "transcript": "[ weɪ ]",
+    "translate": "путь"
+  },
+  {
+    "id": 158,
+    "word": "about",
+    "transcript": "[ əˈbaʊt ]",
+    "translate": "о"
+  },
+  {
+    "id": 159,
+    "word": "many",
+    "transcript": "[ ˈmen.i ]",
+    "translate": "много"
+  },
+  {
+    "id": 160,
+    "word": "then",
+    "transcript": "[ ðen ]",
+    "translate": "затем"
+  },
+  {
+    "id": 161,
+    "word": "them",
+    "transcript": "[ ðem ]",
+    "translate": "их"
+  },
+  {
+    "id": 162,
+    "word": "write",
+    "transcript": "[ raɪt ]",
+    "translate": "писать"
+  },
+  {
+    "id": 163,
+    "word": "would",
+    "transcript": "[ wʊd ]",
+    "translate": "бы / было бы"
+  },
+  {
+    "id": 164,
+    "word": "like",
+    "transcript": "[ laɪk ]",
+    "translate": "нравиться"
+  },
+  {
+    "id": 165,
+    "word": "so",
+    "transcript": "[ səʊ ]",
+    "translate": "так"
+  },
+  {
+    "id": 166,
+    "word": "these",
+    "transcript": "[ ðiːz ]",
+    "translate": "эти"
+  },
+  {
+    "id": 167,
+    "word": "her",
+    "transcript": "[ hɜː r]",
+    "translate": "ее"
+  },
+  {
+    "id": 168,
+    "word": "long",
+    "transcript": "[ lɒŋ ]",
+    "translate": "долго / длинный"
+  },
+  {
+    "id": 169,
+    "word": "make",
+    "transcript": "[ meɪk ]",
+    "translate": "делать"
+  },
+  {
+    "id": 170,
+    "word": "thing",
+    "transcript": "[ θɪŋ ]",
+    "translate": "вещь"
+  },
+  {
+    "id": 171,
+    "word": "see",
+    "transcript": "[ siː ]",
+    "translate": "видеть"
+  },
+  {
+    "id": 172,
+    "word": "him",
+    "transcript": "[ hɪm ]",
+    "translate": "его"
+  },
+  {
+    "id": 173,
+    "word": "two",
+    "transcript": "[ tuː ]",
+    "translate": "два / двое"
+  },
+  {
+    "id": 174,
+    "word": "has",
+    "transcript": "[ hæz ]",
+    "translate": "имеет"
+  },
+  {
+    "id": 175,
+    "word": "look",
+    "transcript": "[ lʊk ]",
+    "translate": "смотреть / взгляд"
+  },
+  {
+    "id": 176,
+    "word": "more",
+    "transcript": "[ mɔː r]",
+    "translate": "больше"
+  },
+  {
+    "id": 177,
+    "word": "day",
+    "transcript": "[ deɪ ]",
+    "translate": "день"
+  },
+  {
+    "id": 178,
+    "word": "could",
+    "transcript": "[ kʊd ]",
+    "translate": "мог"
+  },
+  {
+    "id": 179,
+    "word": "go",
+    "transcript": "[ ɡəʊ ]",
+    "translate": "идти"
+  },
+  {
+    "id": 180,
+    "word": "come",
+    "transcript": "[ kʌm ]",
+    "translate": "приходить"
+  },
+  {
+    "id": 181,
+    "word": "did",
+    "transcript": "[ dɪd ]",
+    "translate": "сделал"
+  },
+  {
+    "id": 182,
+    "word": "number",
+    "transcript": "[ ˈnʌm.bə r]",
+    "translate": "номер"
+  },
+  {
+    "id": 183,
+    "word": "sound",
+    "transcript": "[ saʊnd ]",
+    "translate": "звук"
+  },
+  {
+    "id": 184,
+    "word": "no",
+    "transcript": "[ nəʊ ]",
+    "translate": "нет"
+  },
+  {
+    "id": 185,
+    "word": "most",
+    "transcript": "[ məʊst ]",
+    "translate": "самый / большинство"
+  },
+  {
+    "id": 186,
+    "word": "people",
+    "transcript": "[ ˈpiː.p ə l ]",
+    "translate": "люди"
+  },
+  {
+    "id": 187,
+    "word": "my",
+    "transcript": "[ maɪ ]",
+    "translate": "мой"
+  },
+  {
+    "id": 188,
+    "word": "over",
+    "transcript": "[ ˈəʊ.və r]",
+    "translate": "над"
+  },
+  {
+    "id": 189,
+    "word": "know",
+    "transcript": "[ nəʊ ]",
+    "translate": "знать"
+  },
+  {
+    "id": 190,
+    "word": "water",
+    "transcript": "[ ˈwɔː.tə r]",
+    "translate": "вода"
+  },
+  {
+    "id": 191,
+    "word": "than",
+    "transcript": "[ ðæn ]",
+    "translate": "чем"
+  },
+  {
+    "id": 192,
+    "word": "call",
+    "transcript": "[ kɔːl ]",
+    "translate": "звонить / звонок"
+  },
+  {
+    "id": 193,
+    "word": "first",
+    "transcript": "[ ˈfɜːst ]",
+    "translate": "первый"
+  },
+  {
+    "id": 194,
+    "word": "who",
+    "transcript": "[ huː ]",
+    "translate": "кто"
+  },
+  {
+    "id": 195,
+    "word": "may",
+    "transcript": "[ meɪ ]",
+    "translate": "может"
+  },
+  {
+    "id": 196,
+    "word": "down",
+    "transcript": "[ daʊn ]",
+    "translate": "вниз"
+  },
+  {
+    "id": 197,
+    "word": "side",
+    "transcript": "[ saɪd ]",
+    "translate": "сторона"
+  },
+  {
+    "id": 198,
+    "word": "been",
+    "transcript": "[ biːn ]",
+    "translate": "был"
+  },
+  {
+    "id": 199,
+    "word": "now",
+    "transcript": "[ naʊ ]",
+    "translate": "сейчас"
+  },
+  {
+    "id": 200,
+    "word": "find",
+    "transcript": "[ faɪnd ]",
+    "translate": "найти"
+  },
+  {
+    "id": 201,
+    "word": "head",
+    "transcript": "[ hed ]",
+    "translate": "голова"
+  },
+  {
+    "id": 202,
+    "word": "stand",
+    "transcript": "[stænd]",
+    "translate": "стоять"
+  },
+  {
+    "id": 203,
+    "word": "own",
+    "transcript": "[ əʊn ]",
+    "translate": "свой / владеть"
+  },
+  {
+    "id": 204,
+    "word": "page",
+    "transcript": "[ peɪdʒ ]",
+    "translate": "страница"
+  },
+  {
+    "id": 205,
+    "word": "should",
+    "transcript": "[ ʃʊd ]",
+    "translate": "должен"
+  },
+  {
+    "id": 206,
+    "word": "country",
+    "transcript": "[ ˈkʌn.tri ]",
+    "translate": "страна"
+  },
+  {
+    "id": 207,
+    "word": "found",
+    "transcript": "[ faʊnd ]",
+    "translate": "найденный"
+  },
+  {
+    "id": 208,
+    "word": "answer",
+    "transcript": "[ ˈæn·sər ]",
+    "translate": "ответ / отвечать"
+  },
+  {
+    "id": 209,
+    "word": "school",
+    "transcript": "[ skuːl ]",
+    "translate": "школа"
+  },
+  {
+    "id": 210,
+    "word": "grow",
+    "transcript": "[ ɡrəʊ ]",
+    "translate": "расти"
+  },
+  {
+    "id": 211,
+    "word": "study",
+    "transcript": "[ ˈstʌd.i ]",
+    "translate": "изучать"
+  },
+  {
+    "id": 212,
+    "word": "still",
+    "transcript": "[ stɪl ]",
+    "translate": "все еще"
+  },
+  {
+    "id": 213,
+    "word": "learn",
+    "transcript": "[ lɜːn ]",
+    "translate": "учиться"
+  },
+  {
+    "id": 214,
+    "word": "plant",
+    "transcript": "[ plɑːnt ]",
+    "translate": "растение / сажать"
+  },
+  {
+    "id": 215,
+    "word": "cover",
+    "transcript": "[ ˈkʌv.ə r]",
+    "translate": "накрывать / обложка"
+  },
+  {
+    "id": 216,
+    "word": "food",
+    "transcript": "[ fuːd ]",
+    "translate": "еда"
+  },
+  {
+    "id": 217,
+    "word": "sun",
+    "transcript": "[ sʌn ]",
+    "translate": "солнце"
+  },
+  {
+    "id": 218,
+    "word": "four",
+    "transcript": "[ fɔː r]",
+    "translate": "четыре"
+  },
+  {
+    "id": 219,
+    "word": "between",
+    "transcript": "[ bɪˈtwiːn ]",
+    "translate": "между"
+  },
+  {
+    "id": 220,
+    "word": "state",
+    "transcript": "[ steɪt ]",
+    "translate": "состояние, государство, штат"
+  },
+  {
+    "id": 221,
+    "word": "keep",
+    "transcript": "[ kiːp ]",
+    "translate": "держать, продолжать"
+  },
+  {
+    "id": 222,
+    "word": "eye",
+    "transcript": "[ aɪ ]",
+    "translate": "глаз"
+  },
+  {
+    "id": 223,
+    "word": "never",
+    "transcript": "[ ˈnev.ə r]",
+    "translate": "никогда"
+  },
+  {
+    "id": 224,
+    "word": "last",
+    "transcript": "[ lɑːst ]",
+    "translate": "последний"
+  },
+  {
+    "id": 225,
+    "word": "let",
+    "transcript": "[ let ]",
+    "translate": "позволять"
+  },
+  {
+    "id": 226,
+    "word": "thought",
+    "transcript": "[ θɔːt ]",
+    "translate": "мысль / думал"
+  },
+  {
+    "id": 227,
+    "word": "city",
+    "transcript": "[ ˈsɪt.i ]",
+    "translate": "город"
+  },
+  {
+    "id": 228,
+    "word": "tree",
+    "transcript": "[ triː ]",
+    "translate": "дерево"
+  },
+  {
+    "id": 229,
+    "word": "cross",
+    "transcript": "[ krɒs ]",
+    "translate": "пересекать / крест"
+  },
+  {
+    "id": 230,
+    "word": "farm",
+    "transcript": "[ fɑːm ]",
+    "translate": "ферма"
+  },
+  {
+    "id": 231,
+    "word": "hard",
+    "transcript": "[ hɑːd ]",
+    "translate": "тяжелый / твердый"
+  },
+  {
+    "id": 232,
+    "word": "start",
+    "transcript": "[ stɑːt ]",
+    "translate": "начинать"
+  },
+  {
+    "id": 233,
+    "word": "might",
+    "transcript": "[ maɪt ]",
+    "translate": "может быть / мощь"
+  },
+  {
+    "id": 234,
+    "word": "story",
+    "transcript": "[ ˈstɔː.ri ]",
+    "translate": "история"
+  },
+  {
+    "id": 235,
+    "word": "saw",
+    "transcript": "[ sɔː ]",
+    "translate": "увидел / пила"
+  },
+  {
+    "id": 236,
+    "word": "far",
+    "transcript": "[ fɑː r]",
+    "translate": "далеко"
+  },
+  {
+    "id": 237,
+    "word": "sea",
+    "transcript": "[ siː ]",
+    "translate": "море"
+  },
+  {
+    "id": 238,
+    "word": "draw",
+    "transcript": "[ drɔː ]",
+    "translate": "рисовать"
+  },
+  {
+    "id": 239,
+    "word": "left",
+    "transcript": "[ left ]",
+    "translate": "лево / оставил"
+  },
+  {
+    "id": 240,
+    "word": "late",
+    "transcript": "[ leɪt ]",
+    "translate": "поздно"
+  },
+  {
+    "id": 241,
+    "word": "run",
+    "transcript": "[ rʌn ]",
+    "translate": "бежать"
+  },
+  {
+    "id": 242,
+    "word": "don’t",
+    "transcript": "[ dəʊnt ]",
+    "translate": "не"
+  },
+  {
+    "id": 243,
+    "word": "while",
+    "transcript": "[ waɪl ]",
+    "translate": "в то время, как"
+  },
+  {
+    "id": 244,
+    "word": "press",
+    "transcript": "[ pres ]",
+    "translate": "нажимать / давить"
+  },
+  {
+    "id": 245,
+    "word": "close",
+    "transcript": "[ kləʊz ]",
+    "translate": "близко / закрывать"
+  },
+  {
+    "id": 246,
+    "word": "night",
+    "transcript": "[ naɪt ]",
+    "translate": "ночь"
+  },
+  {
+    "id": 247,
+    "word": "real",
+    "transcript": "[ rɪəl ]",
+    "translate": "реальный"
+  },
+  {
+    "id": 248,
+    "word": "life",
+    "transcript": "[ laɪf ]",
+    "translate": "жизнь"
+  },
+  {
+    "id": 249,
+    "word": "few",
+    "transcript": "[ fjuː ]",
+    "translate": "несколько"
+  },
+  {
+    "id": 250,
+    "word": "north",
+    "transcript": "[ nɔːθ ]",
+    "translate": "север"
+  },
+  {
+    "id": 251,
+    "word": "book",
+    "transcript": "[ bʊk ]",
+    "translate": "книга"
+  },
+  {
+    "id": 252,
+    "word": "carry",
+    "transcript": "[ ˈkær.i ]",
+    "translate": "нести"
+  },
+  {
+    "id": 253,
+    "word": "took",
+    "transcript": "[ tʊk ]",
+    "translate": "взял"
+  },
+  {
+    "id": 254,
+    "word": "science",
+    "transcript": "[ ˈsaɪ.əns ]",
+    "translate": "наука"
+  },
+  {
+    "id": 255,
+    "word": "eat",
+    "transcript": "[ iːt ]",
+    "translate": "есть"
+  },
+  {
+    "id": 256,
+    "word": "room",
+    "transcript": "[ ruːm ]",
+    "translate": "комната"
+  },
+  {
+    "id": 257,
+    "word": "friend",
+    "transcript": "[ frend ]",
+    "translate": "друг"
+  },
+  {
+    "id": 258,
+    "word": "began",
+    "transcript": "[ bɪˈɡæn ]",
+    "translate": "началось"
+  },
+  {
+    "id": 259,
+    "word": "idea",
+    "transcript": "[ aɪˈdɪə ]",
+    "translate": "идея"
+  },
+  {
+    "id": 260,
+    "word": "fish",
+    "transcript": "[ fɪʃ ]",
+    "translate": "рыба"
+  },
+  {
+    "id": 261,
+    "word": "mountain",
+    "transcript": "[ ˈmaʊn.tɪn ]",
+    "translate": "гора"
+  },
+  {
+    "id": 262,
+    "word": "stop",
+    "transcript": "[ stɒp ]",
+    "translate": "остановка / останавливать"
+  },
+  {
+    "id": 263,
+    "word": "once",
+    "transcript": "[ wʌns ]",
+    "translate": "однажды"
+  },
+  {
+    "id": 264,
+    "word": "base",
+    "transcript": "[ beɪs ]",
+    "translate": "базовый / основывать"
+  },
+  {
+    "id": 265,
+    "word": "hear",
+    "transcript": "[ hɪə r]",
+    "translate": "слышать"
+  },
+  {
+    "id": 266,
+    "word": "horse",
+    "transcript": "[ hɔːs ]",
+    "translate": "лошадь"
+  },
+  {
+    "id": 267,
+    "word": "cut",
+    "transcript": "[ kʌt ]",
+    "translate": "резать"
+  },
+  {
+    "id": 268,
+    "word": "sure",
+    "transcript": "[ ʃɔː r]",
+    "translate": "конечно / уверен"
+  },
+  {
+    "id": 269,
+    "word": "watch",
+    "transcript": "[ wɒtʃ ]",
+    "translate": "смотреть / часы"
+  },
+  {
+    "id": 270,
+    "word": "colour",
+    "transcript": "[ ˈkʌl.ə r]",
+    "translate": "цвет"
+  },
+  {
+    "id": 271,
+    "word": "face",
+    "transcript": "[ feɪs ]",
+    "translate": "лицо"
+  },
+  {
+    "id": 272,
+    "word": "wood",
+    "transcript": "[ wʊd ]",
+    "translate": "дерево"
+  },
+  {
+    "id": 273,
+    "word": "main",
+    "transcript": "[ meɪn ]",
+    "translate": "главный"
+  },
+  {
+    "id": 274,
+    "word": "open",
+    "transcript": "[ ˈəʊ.p ə n ]",
+    "translate": "открыть"
+  },
+  {
+    "id": 275,
+    "word": "seem",
+    "transcript": "[ siːm ]",
+    "translate": "казаться"
+  },
+  {
+    "id": 276,
+    "word": "together",
+    "transcript": "[ təˈɡeð.ə r]",
+    "translate": "вместе"
+  },
+  {
+    "id": 277,
+    "word": "next",
+    "transcript": "[ nekst ]",
+    "translate": "следующий"
+  },
+  {
+    "id": 278,
+    "word": "white",
+    "transcript": "[ waɪt ]",
+    "translate": "белый"
+  },
+  {
+    "id": 279,
+    "word": "children",
+    "transcript": "[ ˈtʃɪl.drən ]",
+    "translate": "дети"
+  },
+  {
+    "id": 280,
+    "word": "begin",
+    "transcript": "[ bɪˈɡɪn ]",
+    "translate": "начинать"
+  },
+  {
+    "id": 281,
+    "word": "got",
+    "transcript": "[ ɡɒt ]",
+    "translate": "получил"
+  },
+  {
+    "id": 282,
+    "word": "walk",
+    "transcript": "[ wɔːk ]",
+    "translate": "гулять / прогулка"
+  },
+  {
+    "id": 283,
+    "word": "example",
+    "transcript": "[ ɪɡˈzɑːm.p ə l ]",
+    "translate": "пример"
+  },
+  {
+    "id": 284,
+    "word": "ease",
+    "transcript": "[ iːz ]",
+    "translate": "легкость / облегчать"
+  },
+  {
+    "id": 285,
+    "word": "paper",
+    "transcript": "[ ˈpeɪ.pə r]",
+    "translate": "бумага"
+  },
+  {
+    "id": 286,
+    "word": "group",
+    "transcript": "[ ɡruːp ]",
+    "translate": "группа"
+  },
+  {
+    "id": 287,
+    "word": "always",
+    "transcript": "[ ˈɔːl.weɪz ]",
+    "translate": "всегда"
+  },
+  {
+    "id": 288,
+    "word": "music",
+    "transcript": "[ ˈmjuː.zɪk ]",
+    "translate": "музыка"
+  },
+  {
+    "id": 289,
+    "word": "those",
+    "transcript": "[ ðəʊz ]",
+    "translate": "те"
+  },
+  {
+    "id": 290,
+    "word": "both",
+    "transcript": "[ bəʊθ ]",
+    "translate": "оба"
+  },
+  {
+    "id": 291,
+    "word": "mark",
+    "transcript": "[ mɑːk ]",
+    "translate": "отметка / отмечать"
+  },
+  {
+    "id": 292,
+    "word": "often",
+    "transcript": "[ ˈɒf. ə n ]",
+    "translate": "часто"
+  },
+  {
+    "id": 293,
+    "word": "letter",
+    "transcript": "[ ˈlet.ə r]",
+    "translate": "письмо"
+  },
+  {
+    "id": 294,
+    "word": "until",
+    "transcript": "[ ənˈtɪl ]",
+    "translate": "до тех пор"
+  },
+  {
+    "id": 295,
+    "word": "mile",
+    "transcript": "[ maɪl ]",
+    "translate": "миля"
+  },
+  {
+    "id": 296,
+    "word": "river",
+    "transcript": "[ ˈrɪv.ə r]",
+    "translate": "река"
+  },
+  {
+    "id": 297,
+    "word": "car",
+    "transcript": "[ kɑː r]",
+    "translate": "машина"
+  },
+  {
+    "id": 298,
+    "word": "feet",
+    "transcript": "[ fiːt ]",
+    "translate": "ноги"
+  },
+  {
+    "id": 299,
+    "word": "care",
+    "transcript": "[ keə r]",
+    "translate": "заботиться / уход"
+  },
+  {
+    "id": 300,
+    "word": "second",
+    "transcript": "[ ˈsek. ə nd ]",
+    "translate": "секунда"
+  },
+  {
+    "id": 301,
+    "word": "enough",
+    "transcript": "[ ɪˈnʌf ]",
+    "translate": "достаточно / довольно"
+  },
+  {
+    "id": 302,
+    "word": "plain",
+    "transcript": "[ pleɪn ]",
+    "translate": "простой"
+  },
+  {
+    "id": 303,
+    "word": "girl",
+    "transcript": "[ ɡɜːl ]",
+    "translate": "девочка"
+  },
+  {
+    "id": 304,
+    "word": "usual",
+    "transcript": "[ ˈjuː.ʒu.əl ]",
+    "translate": "обычно"
+  },
+  {
+    "id": 305,
+    "word": "young",
+    "transcript": "[ jʌŋ ]",
+    "translate": "молодой"
+  },
+  {
+    "id": 306,
+    "word": "ready",
+    "transcript": "[ ˈred.i ]",
+    "translate": "готовый"
+  },
+  {
+    "id": 307,
+    "word": "above",
+    "transcript": "[ əˈbʌv ]",
+    "translate": "выше"
+  },
+  {
+    "id": 308,
+    "word": "ever",
+    "transcript": "[ ˈev.ə r]",
+    "translate": "когда-либо"
+  },
+  {
+    "id": 309,
+    "word": "red",
+    "transcript": "[ red ]",
+    "translate": "красный"
+  },
+  {
+    "id": 310,
+    "word": "list",
+    "transcript": "[ lɪst ]",
+    "translate": "список"
+  },
+  {
+    "id": 311,
+    "word": "though",
+    "transcript": "[ ðəʊ ]",
+    "translate": "хоть"
+  },
+  {
+    "id": 312,
+    "word": "feel",
+    "transcript": "[ fiːl ]",
+    "translate": "чувствовать"
+  },
+  {
+    "id": 313,
+    "word": "talk",
+    "transcript": "[ tɔːk ]",
+    "translate": "говорить"
+  },
+  {
+    "id": 314,
+    "word": "bird",
+    "transcript": "[ bɜːd ]",
+    "translate": "птица"
+  },
+  {
+    "id": 315,
+    "word": "soon",
+    "transcript": "[ suːn ]",
+    "translate": "скоро"
+  },
+  {
+    "id": 316,
+    "word": "body",
+    "transcript": "[ ˈbɒd.i ]",
+    "translate": "тело"
+  },
+  {
+    "id": 317,
+    "word": "dog",
+    "transcript": "[ dɒɡ ]",
+    "translate": "собака"
+  },
+  {
+    "id": 318,
+    "word": "family",
+    "transcript": "[ ˈfæm. ə l.i ]",
+    "translate": "семья"
+  },
+  {
+    "id": 319,
+    "word": "direct",
+    "transcript": "[ daɪˈrekt ]",
+    "translate": "непосредственный / направлять"
+  },
+  {
+    "id": 320,
+    "word": "pose",
+    "transcript": "[ pəʊz ]",
+    "translate": "поза / позировать"
+  },
+  {
+    "id": 321,
+    "word": "leave",
+    "transcript": "[ liːv ]",
+    "translate": "покидать"
+  },
+  {
+    "id": 322,
+    "word": "song",
+    "transcript": "[ sɒŋ ]",
+    "translate": "песня"
+  },
+  {
+    "id": 323,
+    "word": "measure",
+    "transcript": "[ ˈmeʒ.ə r]",
+    "translate": "мера / измерять"
+  },
+  {
+    "id": 324,
+    "word": "door",
+    "transcript": "[ dɔː r]",
+    "translate": "дверь"
+  },
+  {
+    "id": 325,
+    "word": "product",
+    "transcript": "[ ˈprɒd.ʌkt ]",
+    "translate": "продукт"
+  },
+  {
+    "id": 326,
+    "word": "black",
+    "transcript": "[ blæk ]",
+    "translate": "черный"
+  },
+  {
+    "id": 327,
+    "word": "short",
+    "transcript": "[ ʃɔːt ]",
+    "translate": "короткий"
+  },
+  {
+    "id": 328,
+    "word": "numeral",
+    "transcript": "[ ˈnjuː.mə.rəl ]",
+    "translate": "числительное"
+  },
+  {
+    "id": 329,
+    "word": "class",
+    "transcript": "[ klɑːs ]",
+    "translate": "класс / сорт"
+  },
+  {
+    "id": 330,
+    "word": "wind",
+    "transcript": "[ wɪnd ]",
+    "translate": "ветер"
+  },
+  {
+    "id": 331,
+    "word": "question",
+    "transcript": "[ ˈkwes.tʃən ]",
+    "translate": "вопрос"
+  },
+  {
+    "id": 332,
+    "word": "happen",
+    "transcript": "[ ˈhæp. ə n ]",
+    "translate": "случаться"
+  },
+  {
+    "id": 333,
+    "word": "complete",
+    "transcript": "[ kəmˈpliːt ]",
+    "translate": "полный / завершенный"
+  },
+  {
+    "id": 334,
+    "word": "ship",
+    "transcript": "[ʃɪp]",
+    "translate": "корабль"
+  },
+  {
+    "id": 335,
+    "word": "area",
+    "transcript": "[ ˈeə.ri.ə ]",
+    "translate": "площадь / зона"
+  },
+  {
+    "id": 336,
+    "word": "half",
+    "transcript": "[ hɑːf ]",
+    "translate": "половина"
+  },
+  {
+    "id": 337,
+    "word": "rock",
+    "transcript": "[ rɒk ]",
+    "translate": "рок / камень / скала"
+  },
+  {
+    "id": 338,
+    "word": "order",
+    "transcript": "[ ˈɔː.də r]",
+    "translate": "заказ / порядок"
+  },
+  {
+    "id": 339,
+    "word": "fire",
+    "transcript": "[faɪər]",
+    "translate": "огонь"
+  },
+  {
+    "id": 340,
+    "word": "south",
+    "transcript": "[ saʊθ ]",
+    "translate": "юг"
+  },
+  {
+    "id": 341,
+    "word": "problem",
+    "transcript": "[ ˈprɒb.ləm ]",
+    "translate": "проблема"
+  },
+  {
+    "id": 342,
+    "word": "piece",
+    "transcript": "[ piːs ]",
+    "translate": "часть / кусок"
+  },
+  {
+    "id": 343,
+    "word": "told",
+    "transcript": "[ təʊld ]",
+    "translate": "говорил"
+  },
+  {
+    "id": 344,
+    "word": "knew",
+    "transcript": "[ njuː ]",
+    "translate": "знал"
+  },
+  {
+    "id": 345,
+    "word": "pass",
+    "transcript": "[ pɑːs ]",
+    "translate": "проходить / передача"
+  },
+  {
+    "id": 346,
+    "word": "since",
+    "transcript": "[ sɪns ]",
+    "translate": "с / поскольку"
+  },
+  {
+    "id": 347,
+    "word": "top",
+    "transcript": "[ tɒp ]",
+    "translate": "верх / вершина"
+  },
+  {
+    "id": 348,
+    "word": "whole",
+    "transcript": "[ həʊl ]",
+    "translate": "весь / целый"
+  },
+  {
+    "id": 349,
+    "word": "king",
+    "transcript": "[ kɪŋ ]",
+    "translate": "король"
+  },
+  {
+    "id": 350,
+    "word": "street",
+    "transcript": "[ striːt ]",
+    "translate": "улица"
+  },
+  {
+    "id": 351,
+    "word": "inch",
+    "transcript": "[ ɪntʃ ]",
+    "translate": "дюйм"
+  },
+  {
+    "id": 352,
+    "word": "multiply",
+    "transcript": "[ ˈmʌl.tɪ.plaɪ ]",
+    "translate": "умножать"
+  },
+  {
+    "id": 353,
+    "word": "nothing",
+    "transcript": "[ ˈnʌθ.ɪŋ ]",
+    "translate": "ничего"
+  },
+  {
+    "id": 354,
+    "word": "course",
+    "transcript": "[ kɔːs ]",
+    "translate": "курс / блюдо"
+  },
+  {
+    "id": 355,
+    "word": "stay",
+    "transcript": "[ steɪ ]",
+    "translate": "оставаться"
+  },
+  {
+    "id": 356,
+    "word": "wheel",
+    "transcript": "[ wiːl ]",
+    "translate": "колесо"
+  },
+  {
+    "id": 357,
+    "word": "full",
+    "transcript": "[ fʊl ]",
+    "translate": "полный"
+  },
+  {
+    "id": 358,
+    "word": "force",
+    "transcript": "[ fɔːs ]",
+    "translate": "сила / заставлять"
+  },
+  {
+    "id": 359,
+    "word": "blue",
+    "transcript": "[ bluː ]",
+    "translate": "голубой / синий / грустный"
+  },
+  {
+    "id": 360,
+    "word": "object",
+    "transcript": "[ ˈɒb.dʒɪkt ]",
+    "translate": "объект"
+  },
+  {
+    "id": 361,
+    "word": "decide",
+    "transcript": "[ dɪˈsaɪd ]",
+    "translate": "решать"
+  },
+  {
+    "id": 362,
+    "word": "surface",
+    "transcript": "[ ˈsɜː.fɪs ]",
+    "translate": "поверхность"
+  },
+  {
+    "id": 363,
+    "word": "deep",
+    "transcript": "[ diːp ]",
+    "translate": "глубоко"
+  },
+  {
+    "id": 364,
+    "word": "moon",
+    "transcript": "[ muːn ]",
+    "translate": "луна"
+  },
+  {
+    "id": 365,
+    "word": "island",
+    "transcript": "[ ˈaɪ.lənd ]",
+    "translate": "остров"
+  },
+  {
+    "id": 366,
+    "word": "foot",
+    "transcript": "[ fʊt ]",
+    "translate": "нога"
+  },
+  {
+    "id": 367,
+    "word": "system",
+    "transcript": "[ ˈsɪs.təm ]",
+    "translate": "система"
+  },
+  {
+    "id": 368,
+    "word": "busy",
+    "transcript": "[ ˈbɪz.i ]",
+    "translate": "занят"
+  },
+  {
+    "id": 369,
+    "word": "test",
+    "transcript": "[ test ]",
+    "translate": "тест / проверять"
+  },
+  {
+    "id": 370,
+    "word": "record",
+    "transcript": "[ rɪˈkɔːd ]",
+    "translate": "записывать"
+  },
+  {
+    "id": 371,
+    "word": "boat",
+    "transcript": "[ bəʊt ]",
+    "translate": "лодка"
+  },
+  {
+    "id": 372,
+    "word": "common",
+    "transcript": "[ ˈkɒm.ən ]",
+    "translate": "общий / обычный"
+  },
+  {
+    "id": 373,
+    "word": "gold",
+    "transcript": "[ ɡəʊld ]",
+    "translate": "золото"
+  },
+  {
+    "id": 374,
+    "word": "possible",
+    "transcript": "[ ˈpɒs.ə.b ə l ]",
+    "translate": "возможный"
+  },
+  {
+    "id": 375,
+    "word": "plane",
+    "transcript": "[ pleɪn ]",
+    "translate": "самолет / плоскость"
+  },
+  {
+    "id": 376,
+    "word": "stead",
+    "transcript": "[ sted ]",
+    "translate": "место"
+  },
+  {
+    "id": 377,
+    "word": "dry",
+    "transcript": "[ draɪ ]",
+    "translate": "сухой"
+  },
+  {
+    "id": 378,
+    "word": "wonder",
+    "transcript": "[ ˈwʌn.də r]",
+    "translate": "чудо / удивляться"
+  },
+  {
+    "id": 379,
+    "word": "laugh",
+    "transcript": "[ lɑːf ]",
+    "translate": "смех / смеяться"
+  },
+  {
+    "id": 380,
+    "word": "thousand",
+    "transcript": "[ ˈθaʊ.z ə nd ]",
+    "translate": "тысяча"
+  },
+  {
+    "id": 381,
+    "word": "ago",
+    "transcript": "[ əˈɡəʊ ]",
+    "translate": "тому назад"
+  },
+  {
+    "id": 382,
+    "word": "ran",
+    "transcript": "[ ræn ]",
+    "translate": "побежал"
+  },
+  {
+    "id": 383,
+    "word": "check",
+    "transcript": "[ tʃek ]",
+    "translate": "проверять"
+  },
+  {
+    "id": 384,
+    "word": "game",
+    "transcript": "[ ɡeɪm ]",
+    "translate": "игра"
+  },
+  {
+    "id": 385,
+    "word": "shape",
+    "transcript": "[ ʃeɪp ]",
+    "translate": "форма"
+  },
+  {
+    "id": 386,
+    "word": "equate",
+    "transcript": "[ ɪˈkweɪt ]",
+    "translate": "приравнивать"
+  },
+  {
+    "id": 387,
+    "word": "OK",
+    "transcript": "[ ˌəʊˈkeɪ ]",
+    "translate": "хорошо"
+  },
+  {
+    "id": 388,
+    "word": "miss",
+    "transcript": "[ mɪs ]",
+    "translate": "скучать / пропускать"
+  },
+  {
+    "id": 389,
+    "word": "brought",
+    "transcript": "[ brɔːt ]",
+    "translate": "привел"
+  },
+  {
+    "id": 390,
+    "word": "heat",
+    "transcript": "[ hiːt ]",
+    "translate": "жара, высокая температура"
+  },
+  {
+    "id": 391,
+    "word": "snow",
+    "transcript": "[ snəʊ ]",
+    "translate": "снег"
+  },
+  {
+    "id": 392,
+    "word": "tire",
+    "transcript": "[ taɪə r]",
+    "translate": "шина / утомлять"
+  },
+  {
+    "id": 393,
+    "word": "bring",
+    "transcript": "[ brɪŋ ]",
+    "translate": "приносить"
+  },
+  {
+    "id": 394,
+    "word": "yes",
+    "transcript": "[ jes ]",
+    "translate": "да"
+  },
+  {
+    "id": 395,
+    "word": "distant",
+    "transcript": "[ ˈdɪs.t ə nt ]",
+    "translate": "отдаленный"
+  },
+  {
+    "id": 396,
+    "word": "fill",
+    "transcript": "[ fɪl ]",
+    "translate": "наполнять"
+  },
+  {
+    "id": 397,
+    "word": "east",
+    "transcript": "[ iːst ]",
+    "translate": "восток"
+  },
+  {
+    "id": 398,
+    "word": "paint",
+    "transcript": "[ peɪnt ]",
+    "translate": "краска / красить"
+  },
+  {
+    "id": 399,
+    "word": "language",
+    "transcript": "[ ˈlæŋ.ɡwɪdʒ ]",
+    "translate": "язык"
+  },
+  {
+    "id": 400,
+    "word": "among",
+    "transcript": "[ əˈmʌŋ ]",
+    "translate": "среди"
+  },
+  {
+    "id": 401,
+    "word": "unit",
+    "transcript": "[ ˈjuː.nɪt ]",
+    "translate": "единица"
+  },
+  {
+    "id": 402,
+    "word": "power",
+    "transcript": "[ paʊə r]",
+    "translate": "мощность / сила"
+  },
+  {
+    "id": 403,
+    "word": "town",
+    "transcript": "[ taʊn ]",
+    "translate": "город"
+  },
+  {
+    "id": 404,
+    "word": "fine",
+    "transcript": "[ faɪn ]",
+    "translate": "отлично"
+  },
+  {
+    "id": 405,
+    "word": "certain",
+    "transcript": "[ ˈsɜː.t ə n ]",
+    "translate": "определенный"
+  },
+  {
+    "id": 406,
+    "word": "fly",
+    "transcript": "[ flaɪ ]",
+    "translate": "летать"
+  },
+  {
+    "id": 407,
+    "word": "fall",
+    "transcript": "[fɔːl]",
+    "translate": "падать / осень"
+  },
+  {
+    "id": 408,
+    "word": "lead",
+    "transcript": "[ liːd ]",
+    "translate": "вести / руководить"
+  },
+  {
+    "id": 409,
+    "word": "cry",
+    "transcript": "[ kraɪ ]",
+    "translate": "плакать"
+  },
+  {
+    "id": 410,
+    "word": "dark",
+    "transcript": "[ dɑːk ]",
+    "translate": "темный, темнота"
+  },
+  {
+    "id": 411,
+    "word": "machine",
+    "transcript": "[ məˈʃiːn ]",
+    "translate": "машина / механизм"
+  },
+  {
+    "id": 412,
+    "word": "note",
+    "transcript": "[ nəʊt ]",
+    "translate": "примечание / отмечать"
+  },
+  {
+    "id": 413,
+    "word": "wait",
+    "transcript": "[ weɪt ]",
+    "translate": "ждать"
+  },
+  {
+    "id": 414,
+    "word": "plan",
+    "transcript": "[ plæn ]",
+    "translate": "план"
+  },
+  {
+    "id": 415,
+    "word": "figure",
+    "transcript": "[ ˈfɪɡ.ə r]",
+    "translate": "цифра / фигура"
+  },
+  {
+    "id": 416,
+    "word": "star",
+    "transcript": "[ stɑː r]",
+    "translate": "звезда"
+  },
+  {
+    "id": 417,
+    "word": "box",
+    "transcript": "[ bɒks ]",
+    "translate": "коробка"
+  },
+  {
+    "id": 418,
+    "word": "noun",
+    "transcript": "[ naʊn ]",
+    "translate": "существительное"
+  },
+  {
+    "id": 419,
+    "word": "field",
+    "transcript": "[ fiːld ]",
+    "translate": "поле"
+  },
+  {
+    "id": 420,
+    "word": "rest",
+    "transcript": "[ rest ]",
+    "translate": "остальное / отдыхать"
+  },
+  {
+    "id": 421,
+    "word": "correct",
+    "transcript": "[ kəˈrekt ]",
+    "translate": "поправлять / правильный"
+  },
+  {
+    "id": 422,
+    "word": "able",
+    "transcript": "[ ˈeɪ.b ə l ]",
+    "translate": "в состоянии / способный"
+  },
+  {
+    "id": 423,
+    "word": "pound",
+    "transcript": "[ paʊnd ]",
+    "translate": "фунт"
+  },
+  {
+    "id": 424,
+    "word": "done",
+    "transcript": "[ dʌn ]",
+    "translate": "сделанный"
+  },
+  {
+    "id": 425,
+    "word": "beauty",
+    "transcript": "[ ˈbjuː.ti ]",
+    "translate": "красота"
+  },
+  {
+    "id": 426,
+    "word": "drive",
+    "transcript": "[ draɪv ]",
+    "translate": "водить"
+  },
+  {
+    "id": 427,
+    "word": "stood",
+    "transcript": "[ stʊd ]",
+    "translate": "стоял"
+  },
+  {
+    "id": 428,
+    "word": "contain",
+    "transcript": "[ kənˈteɪn ]",
+    "translate": "содержать"
+  },
+  {
+    "id": 429,
+    "word": "front",
+    "transcript": "[ frʌnt ]",
+    "translate": "перед"
+  },
+  {
+    "id": 430,
+    "word": "teach",
+    "transcript": "[tiːtʃ]",
+    "translate": "обучать"
+  },
+  {
+    "id": 431,
+    "word": "week",
+    "transcript": "[ wiːk ]",
+    "translate": "неделя"
+  },
+  {
+    "id": 432,
+    "word": "final",
+    "transcript": "[ ˈfaɪ.n ə l ]",
+    "translate": "финал / последний"
+  },
+  {
+    "id": 433,
+    "word": "gave",
+    "transcript": "[ ɡeɪv ]",
+    "translate": "дал"
+  },
+  {
+    "id": 434,
+    "word": "green",
+    "transcript": "[ ɡriːn ]",
+    "translate": "зеленый"
+  },
+  {
+    "id": 435,
+    "word": "oh",
+    "transcript": "[ əʊ ]",
+    "translate": "ох"
+  },
+  {
+    "id": 436,
+    "word": "quick",
+    "transcript": "[ kwɪk ]",
+    "translate": "быстро"
+  },
+  {
+    "id": 437,
+    "word": "develop",
+    "transcript": "[ dɪˈvel.əp ]",
+    "translate": "развивать"
+  },
+  {
+    "id": 438,
+    "word": "ocean",
+    "transcript": "[ ˈəʊ.ʃ ə n ]",
+    "translate": "океан"
+  },
+  {
+    "id": 439,
+    "word": "warm",
+    "transcript": "[ wɔːm ]",
+    "translate": "тепло"
+  },
+  {
+    "id": 440,
+    "word": "free",
+    "transcript": "[ friː ]",
+    "translate": "свободный"
+  },
+  {
+    "id": 441,
+    "word": "minute",
+    "transcript": "[ ˈmɪn.ɪt ]",
+    "translate": "минута"
+  },
+  {
+    "id": 442,
+    "word": "strong",
+    "transcript": "[ strɒŋ ]",
+    "translate": "сильный"
+  },
+  {
+    "id": 443,
+    "word": "special",
+    "transcript": "[ˈspeʃ.əl]",
+    "translate": "особый"
+  },
+  {
+    "id": 444,
+    "word": "mind",
+    "transcript": "[ maɪnd ]",
+    "translate": "разум / возражать"
+  },
+  {
+    "id": 445,
+    "word": "behind",
+    "transcript": "[ bɪˈhaɪnd ]",
+    "translate": "позади"
+  },
+  {
+    "id": 446,
+    "word": "clear",
+    "transcript": "[ klɪə r]",
+    "translate": "ясный / понятно"
+  },
+  {
+    "id": 447,
+    "word": "tail",
+    "transcript": "[ teɪl ]",
+    "translate": "хвост"
+  },
+  {
+    "id": 448,
+    "word": "produce",
+    "transcript": "[ prəˈdʒuːs ]",
+    "translate": "производить"
+  },
+  {
+    "id": 449,
+    "word": "fact",
+    "transcript": "[ fækt ]",
+    "translate": "факт"
+  },
+  {
+    "id": 450,
+    "word": "space",
+    "transcript": "[ speɪs ]",
+    "translate": "пространство / космос"
+  },
+  {
+    "id": 451,
+    "word": "heard",
+    "transcript": "[ h ɜːd ]",
+    "translate": "слышал"
+  },
+  {
+    "id": 452,
+    "word": "best",
+    "transcript": "[ best ]",
+    "translate": "лучший"
+  },
+  {
+    "id": 453,
+    "word": "hour",
+    "transcript": "[ aʊə r]",
+    "translate": "час"
+  },
+  {
+    "id": 454,
+    "word": "better",
+    "transcript": "[ ˈbet.ə r]",
+    "translate": "лучше"
+  },
+  {
+    "id": 455,
+    "word": "true",
+    "transcript": "[ truː ]",
+    "translate": "правда"
+  },
+  {
+    "id": 456,
+    "word": "during",
+    "transcript": "[ ˈdʒʊə.rɪŋ ]",
+    "translate": "в течение"
+  },
+  {
+    "id": 457,
+    "word": "hundred",
+    "transcript": "[ ˈhʌn.drəd ]",
+    "translate": "сотня"
+  },
+  {
+    "id": 458,
+    "word": "five",
+    "transcript": "[ faɪv ]",
+    "translate": "пять"
+  },
+  {
+    "id": 459,
+    "word": "remember",
+    "transcript": "[ rɪˈmem.bə r]",
+    "translate": "помнить"
+  },
+  {
+    "id": 460,
+    "word": "step",
+    "transcript": "[ step ]",
+    "translate": "шаг"
+  },
+  {
+    "id": 461,
+    "word": "early",
+    "transcript": "[ ˈɜː.li ]",
+    "translate": "ранний / рано"
+  },
+  {
+    "id": 462,
+    "word": "hold",
+    "transcript": "[ həʊld ]",
+    "translate": "держать"
+  },
+  {
+    "id": 463,
+    "word": "west",
+    "transcript": "[ west ]",
+    "translate": "запад"
+  },
+  {
+    "id": 464,
+    "word": "ground",
+    "transcript": "[ ɡraʊnd ]",
+    "translate": "земля"
+  },
+  {
+    "id": 465,
+    "word": "interest",
+    "transcript": "[ ˈɪn.trəst ]",
+    "translate": "интерес"
+  },
+  {
+    "id": 466,
+    "word": "reach",
+    "transcript": "[ riːtʃ ]",
+    "translate": "достигать"
+  },
+  {
+    "id": 467,
+    "word": "fast",
+    "transcript": "[ fɑːst ]",
+    "translate": "быстро"
+  },
+  {
+    "id": 468,
+    "word": "verb",
+    "transcript": "[ vɜːb ]",
+    "translate": "глагол"
+  },
+  {
+    "id": 469,
+    "word": "sing",
+    "transcript": "[ sɪŋ ]",
+    "translate": "петь"
+  },
+  {
+    "id": 470,
+    "word": "listen",
+    "transcript": "[ ˈlɪs. ə n ]",
+    "translate": "слушать"
+  },
+  {
+    "id": 471,
+    "word": "six",
+    "transcript": "[ sɪks ]",
+    "translate": "шесть"
+  },
+  {
+    "id": 472,
+    "word": "table",
+    "transcript": "[ ˈteɪ.b ə l ]",
+    "translate": "стол"
+  },
+  {
+    "id": 473,
+    "word": "travel",
+    "transcript": "[ ˈtræv. ə l ]",
+    "translate": "путешествовать"
+  },
+  {
+    "id": 474,
+    "word": "less",
+    "transcript": "[ les ]",
+    "translate": "меньше"
+  },
+  {
+    "id": 475,
+    "word": "morning",
+    "transcript": "[ ˈmɔː.nɪŋ ]",
+    "translate": "утро"
+  },
+  {
+    "id": 476,
+    "word": "ten",
+    "transcript": "[ ten ]",
+    "translate": "десять"
+  },
+  {
+    "id": 477,
+    "word": "simple",
+    "transcript": "[ ˈsɪm.p ə l ]",
+    "translate": "просто / простой"
+  },
+  {
+    "id": 478,
+    "word": "several",
+    "transcript": "[ ˈsev. ə r. ə l ]",
+    "translate": "несколько"
+  },
+  {
+    "id": 479,
+    "word": "vowel",
+    "transcript": "[ vaʊəl ]",
+    "translate": "гласный (звук)"
+  },
+  {
+    "id": 480,
+    "word": "towards",
+    "transcript": "[ twoʊrdz ]",
+    "translate": "к / по направлению к"
+  },
+  {
+    "id": 481,
+    "word": "war",
+    "transcript": "[ wɔː r]",
+    "translate": "война"
+  },
+  {
+    "id": 482,
+    "word": "lay",
+    "transcript": "[ leɪ ]",
+    "translate": "лежать"
+  },
+  {
+    "id": 483,
+    "word": "against",
+    "transcript": "[ əˈɡenst ]",
+    "translate": "против"
+  },
+  {
+    "id": 484,
+    "word": "pattern",
+    "transcript": "[ ˈpæt. ə n ]",
+    "translate": "узор"
+  },
+  {
+    "id": 485,
+    "word": "slow",
+    "transcript": "[ sləʊ ]",
+    "translate": "медленно / медленный"
+  },
+  {
+    "id": 486,
+    "word": "center",
+    "transcript": "[ ˈsen.tə r]",
+    "translate": "центр"
+  },
+  {
+    "id": 487,
+    "word": "love",
+    "transcript": "[ lʌv ]",
+    "translate": "любовь"
+  },
+  {
+    "id": 488,
+    "word": "person",
+    "transcript": "[ ˈpɜː.s ə n ]",
+    "translate": "человек"
+  },
+  {
+    "id": 489,
+    "word": "money",
+    "transcript": "[ ˈmʌn.i ]",
+    "translate": "деньги"
+  },
+  {
+    "id": 490,
+    "word": "serve",
+    "transcript": "[ sɜːv ]",
+    "translate": "обслуживать"
+  },
+  {
+    "id": 491,
+    "word": "appear",
+    "transcript": "[ əˈpɪə r]",
+    "translate": "появляться"
+  },
+  {
+    "id": 492,
+    "word": "road",
+    "transcript": "[ rəʊd ]",
+    "translate": "дорога"
+  },
+  {
+    "id": 493,
+    "word": "map",
+    "transcript": "[ mæp ]",
+    "translate": "карта"
+  },
+  {
+    "id": 494,
+    "word": "rain",
+    "transcript": "[ reɪn ]",
+    "translate": "дождь"
+  },
+  {
+    "id": 495,
+    "word": "rule",
+    "transcript": "[ ruːl ]",
+    "translate": "правило"
+  },
+  {
+    "id": 496,
+    "word": "govern",
+    "transcript": "[ ˈɡʌv. ə n ]",
+    "translate": "управлять"
+  },
+  {
+    "id": 497,
+    "word": "pull",
+    "transcript": "[pʊl]",
+    "translate": "тянуть"
+  },
+  {
+    "id": 498,
+    "word": "cold",
+    "transcript": "[ kəʊld ]",
+    "translate": "холодный"
+  },
+  {
+    "id": 499,
+    "word": "notice",
+    "transcript": "[ ˈnəʊ.tɪs ]",
+    "translate": "уведомление / замечать"
+  },
+  {
+    "id": 500,
+    "word": "voice",
+    "transcript": "[ vɔɪs ]",
+    "translate": "голос"
+  },
+  {
+    "id": 501,
+    "word": "energy",
+    "transcript": "[ ˈen.ə.dʒi ]",
+    "translate": "энергия"
+  },
+  {
+    "id": 502,
+    "word": "hunt",
+    "transcript": "[ hʌnt ]",
+    "translate": "охотититься"
+  },
+  {
+    "id": 503,
+    "word": "probable",
+    "transcript": "[ ˈprɒb.ə.b ə l ]",
+    "translate": "вероятный"
+  },
+  {
+    "id": 504,
+    "word": "bed",
+    "transcript": "[ bed ]",
+    "translate": "кровать"
+  },
+  {
+    "id": 505,
+    "word": "brother",
+    "transcript": "[ ˈbrʌð.ə r]",
+    "translate": "брат"
+  },
+  {
+    "id": 506,
+    "word": "egg",
+    "transcript": "[ eɡ ]",
+    "translate": "яйцо"
+  },
+  {
+    "id": 507,
+    "word": "ride",
+    "transcript": "[ raɪd ]",
+    "translate": "ездить / поездка"
+  },
+  {
+    "id": 508,
+    "word": "cell",
+    "transcript": "[ sel ]",
+    "translate": "клетка / мобильный ( амер. )"
+  },
+  {
+    "id": 509,
+    "word": "believe",
+    "transcript": "[ bɪˈliːv ]",
+    "translate": "верить"
+  },
+  {
+    "id": 510,
+    "word": "perhaps",
+    "transcript": "[ pəˈhæps ]",
+    "translate": "возможно"
+  },
+  {
+    "id": 511,
+    "word": "pick",
+    "transcript": "[ pɪk ]",
+    "translate": "выбирать"
+  },
+  {
+    "id": 512,
+    "word": "sudden",
+    "transcript": "[ ˈsʌd. ə n ]",
+    "translate": "внезапный"
+  },
+  {
+    "id": 513,
+    "word": "count",
+    "transcript": "[ kaʊnt ]",
+    "translate": "считать"
+  },
+  {
+    "id": 514,
+    "word": "square",
+    "transcript": "[ skweə r]",
+    "translate": "квадрат / площадь"
+  },
+  {
+    "id": 515,
+    "word": "reason",
+    "transcript": "[ ˈriː.z ə n ]",
+    "translate": "причина"
+  },
+  {
+    "id": 516,
+    "word": "length",
+    "transcript": "[ leŋθ ]",
+    "translate": "длина"
+  },
+  {
+    "id": 517,
+    "word": "represent",
+    "transcript": "[ ˌrep.rɪˈzent ]",
+    "translate": "представлять"
+  },
+  {
+    "id": 518,
+    "word": "art",
+    "transcript": "[ ɑːt ]",
+    "translate": "искусство"
+  },
+  {
+    "id": 519,
+    "word": "subject",
+    "transcript": "[ ˈsʌb.dʒekt ]",
+    "translate": "предмет"
+  },
+  {
+    "id": 520,
+    "word": "region",
+    "transcript": "[ ˈriː.dʒ ə n ]",
+    "translate": "регион"
+  },
+  {
+    "id": 521,
+    "word": "size",
+    "transcript": "[ saɪz ]",
+    "translate": "размер"
+  },
+  {
+    "id": 522,
+    "word": "vary",
+    "transcript": "[ ˈveə.ri ]",
+    "translate": "меняться / варьировать"
+  },
+  {
+    "id": 523,
+    "word": "settle",
+    "transcript": "[ ˈset. ə l ]",
+    "translate": "селиться"
+  },
+  {
+    "id": 524,
+    "word": "speak",
+    "transcript": "[ spiːk ]",
+    "translate": "говорить"
+  },
+  {
+    "id": 525,
+    "word": "weight",
+    "transcript": "[ weɪt ]",
+    "translate": "вес"
+  },
+  {
+    "id": 526,
+    "word": "general",
+    "transcript": "[ ˈdʒen. ə r. ə l ]",
+    "translate": "главный / общий"
+  },
+  {
+    "id": 527,
+    "word": "ice",
+    "transcript": "[ aɪs ]",
+    "translate": "лед"
+  },
+  {
+    "id": 528,
+    "word": "matter",
+    "transcript": "[ ˈmæt.ə r]",
+    "translate": "иметь значение / предмет / материя"
+  },
+  {
+    "id": 529,
+    "word": "circle",
+    "transcript": "[ ˈsɜː.k ə l ]",
+    "translate": "круг"
+  },
+  {
+    "id": 530,
+    "word": "pair",
+    "transcript": "[ peə r]",
+    "translate": "пара"
+  },
+  {
+    "id": 531,
+    "word": "include",
+    "transcript": "[ ɪnˈkluːd ]",
+    "translate": "включать в себя"
+  },
+  {
+    "id": 532,
+    "word": "divide",
+    "transcript": "[ dɪˈvaɪd ]",
+    "translate": "разделять"
+  },
+  {
+    "id": 533,
+    "word": "syllable",
+    "transcript": "[ ˈsɪl.ə.b ə l ]",
+    "translate": "слог"
+  },
+  {
+    "id": 534,
+    "word": "felt",
+    "transcript": "[ felt ]",
+    "translate": "чувствовал"
+  },
+  {
+    "id": 535,
+    "word": "grand",
+    "transcript": "[ ɡrænd ]",
+    "translate": "большой / великий"
+  },
+  {
+    "id": 536,
+    "word": "ball",
+    "transcript": "[ bɔːl ]",
+    "translate": "мяч"
+  },
+  {
+    "id": 537,
+    "word": "yet",
+    "transcript": "[ jet ]",
+    "translate": "еще"
+  },
+  {
+    "id": 538,
+    "word": "wave",
+    "transcript": "[ weɪv ]",
+    "translate": "волна"
+  },
+  {
+    "id": 539,
+    "word": "drop",
+    "transcript": "[ drɒp ]",
+    "translate": "капля / бросать"
+  },
+  {
+    "id": 540,
+    "word": "heart",
+    "transcript": "[ hɑːt ]",
+    "translate": "сердце"
+  },
+  {
+    "id": 541,
+    "word": "AM",
+    "transcript": "[ ˌ eɪ ˈem ]",
+    "translate": "до полудня"
+  },
+  {
+    "id": 542,
+    "word": "present",
+    "transcript": "[ ˈprez. ə nt ]",
+    "translate": "подарок / настоящий"
+  },
+  {
+    "id": 543,
+    "word": "heavy",
+    "transcript": "[ ˈhev.i ]",
+    "translate": "тяжелый"
+  },
+  {
+    "id": 544,
+    "word": "dance",
+    "transcript": "[ dɑːns ]",
+    "translate": "танец / танцевать"
+  },
+  {
+    "id": 545,
+    "word": "engine",
+    "transcript": "[ ˈen.dʒɪn ]",
+    "translate": "двигатель"
+  },
+  {
+    "id": 546,
+    "word": "position",
+    "transcript": "[ pəˈzɪʃ. ə n ]",
+    "translate": "позиция"
+  },
+  {
+    "id": 547,
+    "word": "arm",
+    "transcript": "[ ɑːm ]",
+    "translate": "рука"
+  },
+  {
+    "id": 548,
+    "word": "wide",
+    "transcript": "[ waɪd ]",
+    "translate": "широкий / повсюду"
+  },
+  {
+    "id": 549,
+    "word": "sail",
+    "transcript": "[ seɪl ]",
+    "translate": "паруса / плавать"
+  },
+  {
+    "id": 550,
+    "word": "material",
+    "transcript": "[ məˈtɪə.ri.əl ]",
+    "translate": "материал"
+  },
+  {
+    "id": 551,
+    "word": "fraction",
+    "transcript": "[ ˈfræk.ʃ ə n ]",
+    "translate": "доля"
+  },
+  {
+    "id": 552,
+    "word": "forest",
+    "transcript": "[ ˈfɒr.ɪst ]",
+    "translate": "лес"
+  },
+  {
+    "id": 553,
+    "word": "sit",
+    "transcript": "[ sɪt ]",
+    "translate": "сидеть"
+  },
+  {
+    "id": 554,
+    "word": "race",
+    "transcript": "[ reɪs ]",
+    "translate": "гонка / раса"
+  },
+  {
+    "id": 555,
+    "word": "window",
+    "transcript": "[ ˈwɪn.dəʊ ]",
+    "translate": "окно"
+  },
+  {
+    "id": 556,
+    "word": "store ( амер. )",
+    "transcript": "[ stɔː r]",
+    "translate": "магазин"
+  },
+  {
+    "id": 557,
+    "word": "summer",
+    "transcript": "[ ˈsʌm.ə r]",
+    "translate": "лето"
+  },
+  {
+    "id": 558,
+    "word": "train",
+    "transcript": "[ treɪn ]",
+    "translate": "поезд"
+  },
+  {
+    "id": 559,
+    "word": "sleep",
+    "transcript": "[ sliːp ]",
+    "translate": "спать"
+  },
+  {
+    "id": 560,
+    "word": "prove",
+    "transcript": "[ pruːv ]",
+    "translate": "доказывать"
+  },
+  {
+    "id": 561,
+    "word": "alone",
+    "transcript": "[ əˈləʊn ]",
+    "translate": "один / одинокий"
+  },
+  {
+    "id": 562,
+    "word": "leg",
+    "transcript": "[ leɡ ]",
+    "translate": "нога"
+  },
+  {
+    "id": 563,
+    "word": "exercise",
+    "transcript": "[ ˈek.sə.saɪz ]",
+    "translate": "упражнение"
+  },
+  {
+    "id": 564,
+    "word": "wall",
+    "transcript": "[ wɔːl ]",
+    "translate": "стена"
+  },
+  {
+    "id": 565,
+    "word": "catch",
+    "transcript": "[ kætʃ ]",
+    "translate": "поймать"
+  },
+  {
+    "id": 566,
+    "word": "mount",
+    "transcript": "[ maʊnt ]",
+    "translate": "взбираться / монтировать"
+  },
+  {
+    "id": 567,
+    "word": "wish",
+    "transcript": "[ wɪʃ ]",
+    "translate": "желать"
+  },
+  {
+    "id": 568,
+    "word": "sky",
+    "transcript": "[ skaɪ ]",
+    "translate": "небо"
+  },
+  {
+    "id": 569,
+    "word": "board",
+    "transcript": "[ bɔːd ]",
+    "translate": "доска"
+  },
+  {
+    "id": 570,
+    "word": "joy",
+    "transcript": "[ dʒɔɪ ]",
+    "translate": "радость"
+  },
+  {
+    "id": 571,
+    "word": "winter",
+    "transcript": "[ ˈwɪn.tə r]",
+    "translate": "зима"
+  },
+  {
+    "id": 572,
+    "word": "somebody",
+    "transcript": "[ ˈsʌm.bə.di ]",
+    "translate": "кто-то"
+  },
+  {
+    "id": 573,
+    "word": "written",
+    "transcript": "[ ˈrɪt. ə n ]",
+    "translate": "написанный"
+  },
+  {
+    "id": 574,
+    "word": "wild",
+    "transcript": "[ waɪld ]",
+    "translate": "дикий"
+  },
+  {
+    "id": 575,
+    "word": "instrument",
+    "transcript": "[ ˈɪn.strə.mənt ]",
+    "translate": "инструмент"
+  },
+  {
+    "id": 576,
+    "word": "kept",
+    "transcript": "[ kept ]",
+    "translate": "сохранил"
+  },
+  {
+    "id": 577,
+    "word": "glass",
+    "transcript": "[ ɡlɑːs ]",
+    "translate": "стекло"
+  },
+  {
+    "id": 578,
+    "word": "grass",
+    "transcript": "[ ɡrɑːs ]",
+    "translate": "трава"
+  },
+  {
+    "id": 579,
+    "word": "cow",
+    "transcript": "[ kaʊ ]",
+    "translate": "корова"
+  },
+  {
+    "id": 580,
+    "word": "job",
+    "transcript": "[ dʒɒb ]",
+    "translate": "работа"
+  },
+  {
+    "id": 581,
+    "word": "edge",
+    "transcript": "[ edʒ ]",
+    "translate": "край"
+  },
+  {
+    "id": 582,
+    "word": "sign",
+    "transcript": "[ saɪn ]",
+    "translate": "подписывать / знак"
+  },
+  {
+    "id": 583,
+    "word": "visit",
+    "transcript": "[ ˈvɪz.ɪt ]",
+    "translate": "посещать"
+  },
+  {
+    "id": 584,
+    "word": "past",
+    "transcript": "[ pɑːst ]",
+    "translate": "прошлое"
+  },
+  {
+    "id": 585,
+    "word": "soft",
+    "transcript": "[ sɒft ]",
+    "translate": "мягкий"
+  },
+  {
+    "id": 586,
+    "word": "fun",
+    "transcript": "[ fʌn ]",
+    "translate": "веселый / веселье"
+  },
+  {
+    "id": 587,
+    "word": "bright",
+    "transcript": "[ braɪt ]",
+    "translate": "яркий"
+  },
+  {
+    "id": 588,
+    "word": "gas",
+    "transcript": "[ ɡæs ]",
+    "translate": "газ / бензин ( амер. )"
+  },
+  {
+    "id": 589,
+    "word": "weather",
+    "transcript": "[ ˈweð.ə r]",
+    "translate": "погода"
+  },
+  {
+    "id": 590,
+    "word": "month",
+    "transcript": "[ mʌnθ ]",
+    "translate": "месяц"
+  },
+  {
+    "id": 591,
+    "word": "million",
+    "transcript": "[ ˈmɪl.jən ]",
+    "translate": "миллион"
+  },
+  {
+    "id": 592,
+    "word": "bear",
+    "transcript": "[ beə r]",
+    "translate": "медведь / выносить (терпеть)"
+  },
+  {
+    "id": 593,
+    "word": "finish",
+    "transcript": "[ ˈfɪn.ɪʃ ]",
+    "translate": "закончить"
+  },
+  {
+    "id": 594,
+    "word": "happy",
+    "transcript": "[ ˈhæp.i ]",
+    "translate": "счастливый"
+  },
+  {
+    "id": 595,
+    "word": "hope",
+    "transcript": "[ həʊp ]",
+    "translate": "надежда / надеяться"
+  },
+  {
+    "id": 596,
+    "word": "flower",
+    "transcript": "[ flaʊə r]",
+    "translate": "цветок"
+  },
+  {
+    "id": 597,
+    "word": "clothes",
+    "transcript": "[ kləʊðz ]",
+    "translate": "одежда"
+  },
+  {
+    "id": 598,
+    "word": "strange",
+    "transcript": "[ streɪndʒ ]",
+    "translate": "странный"
+  },
+  {
+    "id": 599,
+    "word": "gone",
+    "transcript": "[ ɡɒn ]",
+    "translate": "ушедший"
+  },
+  {
+    "id": 600,
+    "word": "trade",
+    "transcript": "[ treɪd ]",
+    "translate": "торговля"
+  },
+  {
+    "id": 601,
+    "word": "melody",
+    "transcript": "[ ˈmel.ə.di ]",
+    "translate": "мелодия"
+  },
+  {
+    "id": 602,
+    "word": "trip",
+    "transcript": "[ trɪp ]",
+    "translate": "поездка"
+  },
+  {
+    "id": 603,
+    "word": "office",
+    "transcript": "[ ˈɒf.ɪs ]",
+    "translate": "офис"
+  },
+  {
+    "id": 604,
+    "word": "receive",
+    "transcript": "[ rɪˈsiːv ]",
+    "translate": "получать"
+  },
+  {
+    "id": 605,
+    "word": "row",
+    "transcript": "[ rəʊ ]",
+    "translate": "ряд"
+  },
+  {
+    "id": 606,
+    "word": "mouth",
+    "transcript": "[ maʊθ ]",
+    "translate": "рот"
+  },
+  {
+    "id": 607,
+    "word": "exact",
+    "transcript": "[ ɪɡˈzækt ]",
+    "translate": "точный"
+  },
+  {
+    "id": 608,
+    "word": "symbol",
+    "transcript": "[ ˈsɪm.b ə l ]",
+    "translate": "символ"
+  },
+  {
+    "id": 609,
+    "word": "die",
+    "transcript": "[ daɪ ]",
+    "translate": "умирать"
+  },
+  {
+    "id": 610,
+    "word": "least",
+    "transcript": "[ liːst ]",
+    "translate": "наименее / меньше всего"
+  },
+  {
+    "id": 611,
+    "word": "trouble",
+    "transcript": "[ ˈtrʌb. ə l ]",
+    "translate": "проблема"
+  },
+  {
+    "id": 612,
+    "word": "shout",
+    "transcript": "[ ʃaʊt ]",
+    "translate": "кричать"
+  },
+  {
+    "id": 613,
+    "word": "except",
+    "transcript": "[ ɪkˈsept ]",
+    "translate": "кроме / исключая"
+  },
+  {
+    "id": 614,
+    "word": "writer",
+    "transcript": "[ ˈraɪ.tə r]",
+    "translate": "писатель"
+  },
+  {
+    "id": 615,
+    "word": "seed",
+    "transcript": "[siːd]",
+    "translate": "семя"
+  },
+  {
+    "id": 616,
+    "word": "tone",
+    "transcript": "[ təʊn ]",
+    "translate": "тон"
+  },
+  {
+    "id": 617,
+    "word": "join",
+    "transcript": "[ dʒɔɪn ]",
+    "translate": "присоединяться"
+  },
+  {
+    "id": 618,
+    "word": "suggest",
+    "transcript": "[ səˈdʒest ]",
+    "translate": "предлагать"
+  },
+  {
+    "id": 619,
+    "word": "clean",
+    "transcript": "[ kliːn ]",
+    "translate": "чисто / чистый"
+  },
+  {
+    "id": 620,
+    "word": "break",
+    "transcript": "[ breɪk ]",
+    "translate": "перерыв / ломать"
+  },
+  {
+    "id": 621,
+    "word": "lady",
+    "transcript": "[ ˈleɪ.di ]",
+    "translate": "леди"
+  },
+  {
+    "id": 622,
+    "word": "yard",
+    "transcript": "[ jɑːd ]",
+    "translate": "двор"
+  },
+  {
+    "id": 623,
+    "word": "rise",
+    "transcript": "[ raɪz ]",
+    "translate": "рост / подниматься"
+  },
+  {
+    "id": 624,
+    "word": "bad",
+    "transcript": "[ bæd ]",
+    "translate": "плохой"
+  },
+  {
+    "id": 625,
+    "word": "blow",
+    "transcript": "[ bləʊ ]",
+    "translate": "удар / дуть"
+  },
+  {
+    "id": 626,
+    "word": "oil",
+    "transcript": "[ ɔɪl ]",
+    "translate": "масло"
+  },
+  {
+    "id": 627,
+    "word": "blood",
+    "transcript": "[ blʌd ]",
+    "translate": "кровь"
+  },
+  {
+    "id": 628,
+    "word": "touch",
+    "transcript": "[ tʌtʃ ]",
+    "translate": "трогать / прикосновение"
+  },
+  {
+    "id": 629,
+    "word": "goal",
+    "transcript": "[ ɡəʊl ]",
+    "translate": "цель"
+  },
+  {
+    "id": 630,
+    "word": "cent",
+    "transcript": "[ sent ]",
+    "translate": "цент"
+  },
+  {
+    "id": 631,
+    "word": "mix",
+    "transcript": "[ mɪks ]",
+    "translate": "смесь / смешивать"
+  },
+  {
+    "id": 632,
+    "word": "team",
+    "transcript": "[ tiːm ]",
+    "translate": "команда"
+  },
+  {
+    "id": 633,
+    "word": "wire",
+    "transcript": "[ waɪə r]",
+    "translate": "проволока"
+  },
+  {
+    "id": 634,
+    "word": "cost",
+    "transcript": "[ kɒst ]",
+    "translate": "стоимость"
+  },
+  {
+    "id": 635,
+    "word": "lost",
+    "transcript": "[ lɒst ]",
+    "translate": "потерял / потерянный"
+  },
+  {
+    "id": 636,
+    "word": "brown",
+    "transcript": "[ braʊn ]",
+    "translate": "коричневый"
+  },
+  {
+    "id": 637,
+    "word": "wear",
+    "transcript": "[ weə r]",
+    "translate": "носить"
+  },
+  {
+    "id": 638,
+    "word": "garden",
+    "transcript": "[ ˈɡɑː.d ə n ]",
+    "translate": "сад"
+  },
+  {
+    "id": 639,
+    "word": "equal",
+    "transcript": "[ ˈiː.kwəl ]",
+    "translate": "равный"
+  },
+  {
+    "id": 640,
+    "word": "sent",
+    "transcript": "[ sent ]",
+    "translate": "отправил / отправленный"
+  },
+  {
+    "id": 641,
+    "word": "choose",
+    "transcript": "[ tʃuːz ]",
+    "translate": "выбирать"
+  },
+  {
+    "id": 642,
+    "word": "feel",
+    "transcript": "[ fiːl ]",
+    "translate": "чувствовать"
+  },
+  {
+    "id": 643,
+    "word": "fit",
+    "transcript": "[ fɪt ]",
+    "translate": "соответствовать / подходить"
+  },
+  {
+    "id": 644,
+    "word": "flow",
+    "transcript": "[ fləʊ ]",
+    "translate": "поток / течь"
+  },
+  {
+    "id": 645,
+    "word": "fair",
+    "transcript": "[ feə r]",
+    "translate": "ярмарка / честный"
+  },
+  {
+    "id": 646,
+    "word": "bank",
+    "transcript": "[ bæŋk ]",
+    "translate": "банк"
+  },
+  {
+    "id": 647,
+    "word": "collect",
+    "transcript": "[ kəˈlekt ]",
+    "translate": "собирать"
+  },
+  {
+    "id": 648,
+    "word": "save",
+    "transcript": "[ seɪv ]",
+    "translate": "сохранять"
+  },
+  {
+    "id": 649,
+    "word": "control",
+    "transcript": "[ kənˈtrəʊl ]",
+    "translate": "контроль / контролировать"
+  },
+  {
+    "id": 650,
+    "word": "decimal",
+    "transcript": "[ ˈdes.ɪ.məl ]",
+    "translate": "десятичный"
+  },
+  {
+    "id": 651,
+    "word": "ear",
+    "transcript": "[ ɪə r]",
+    "translate": "ухо"
+  },
+  {
+    "id": 652,
+    "word": "else",
+    "transcript": "[ els ]",
+    "translate": "еще"
+  },
+  {
+    "id": 653,
+    "word": "quite",
+    "transcript": "[ kwaɪt ]",
+    "translate": "довольно"
+  },
+  {
+    "id": 654,
+    "word": "broke",
+    "transcript": "[ brəʊk ]",
+    "translate": "сломал / без денег"
+  },
+  {
+    "id": 655,
+    "word": "case",
+    "transcript": "[ keɪs ]",
+    "translate": "случай"
+  },
+  {
+    "id": 656,
+    "word": "middle",
+    "transcript": "[ ˈmɪd. ə l ]",
+    "translate": "средний"
+  },
+  {
+    "id": 657,
+    "word": "kill",
+    "transcript": "[ kɪl ]",
+    "translate": "убивать"
+  },
+  {
+    "id": 658,
+    "word": "son",
+    "transcript": "[ sʌn ]",
+    "translate": "сын"
+  },
+  {
+    "id": 659,
+    "word": "lake",
+    "transcript": "[ leɪk ]",
+    "translate": "озеро"
+  },
+  {
+    "id": 660,
+    "word": "moment",
+    "transcript": "[ ˈməʊ.mənt ]",
+    "translate": "момент"
+  },
+  {
+    "id": 661,
+    "word": "scale",
+    "transcript": "[ skeɪl ]",
+    "translate": "шкала"
+  },
+  {
+    "id": 662,
+    "word": "loud",
+    "transcript": "[ laʊd ]",
+    "translate": "громко"
+  },
+  {
+    "id": 663,
+    "word": "spring",
+    "transcript": "[ sprɪŋ ]",
+    "translate": "весна"
+  },
+  {
+    "id": 664,
+    "word": "observe",
+    "transcript": "[ əbˈzɜːv ]",
+    "translate": "наблюдать"
+  },
+  {
+    "id": 665,
+    "word": "child",
+    "transcript": "[ tʃaɪld ]",
+    "translate": "ребенок"
+  },
+  {
+    "id": 666,
+    "word": "straight",
+    "transcript": "[ streɪt ]",
+    "translate": "прямо / прямой"
+  },
+  {
+    "id": 667,
+    "word": "consonant",
+    "transcript": "[ ˈkɒn.sə.nənt ]",
+    "translate": "согласный (звук)"
+  },
+  {
+    "id": 668,
+    "word": "nation",
+    "transcript": "[ ˈneɪ.ʃ ə n ]",
+    "translate": "нация"
+  },
+  {
+    "id": 669,
+    "word": "dictionary",
+    "transcript": "[ ˈdɪk.ʃ ə n. ə r.i ]",
+    "translate": "словарь"
+  },
+  {
+    "id": 670,
+    "word": "milk",
+    "transcript": "[ mɪlk ]",
+    "translate": "молоко"
+  },
+  {
+    "id": 671,
+    "word": "speed",
+    "transcript": "[ spiːd ]",
+    "translate": "скорость"
+  },
+  {
+    "id": 672,
+    "word": "method",
+    "transcript": "[ ˈmeθ.əd ]",
+    "translate": "метод"
+  },
+  {
+    "id": 673,
+    "word": "organ",
+    "transcript": "[ ˈɔː.ɡən ]",
+    "translate": "орган"
+  },
+  {
+    "id": 674,
+    "word": "pay",
+    "transcript": "[ peɪ ]",
+    "translate": "платить"
+  },
+  {
+    "id": 675,
+    "word": "age",
+    "transcript": "[ eɪdʒ ]",
+    "translate": "возраст"
+  },
+  {
+    "id": 676,
+    "word": "section",
+    "transcript": "[ ˈsek.ʃ ə n ]",
+    "translate": "раздел"
+  },
+  {
+    "id": 677,
+    "word": "dress",
+    "transcript": "[ dres ]",
+    "translate": "платье / одеваться"
+  },
+  {
+    "id": 678,
+    "word": "cloud",
+    "transcript": "[ klaʊd ]",
+    "translate": "облако"
+  },
+  {
+    "id": 679,
+    "word": "surprise",
+    "transcript": "[ səˈpraɪz ]",
+    "translate": "сюрприз"
+  },
+  {
+    "id": 680,
+    "word": "quiet",
+    "transcript": "[ ˈkwaɪ.ət ]",
+    "translate": "тихо / тихий"
+  },
+  {
+    "id": 681,
+    "word": "stone",
+    "transcript": "[ stəʊn ]",
+    "translate": "камень"
+  },
+  {
+    "id": 682,
+    "word": "tiny",
+    "transcript": "[ ˈtaɪ.ni ]",
+    "translate": "крошечный"
+  },
+  {
+    "id": 683,
+    "word": "climb",
+    "transcript": "[ klaɪm ]",
+    "translate": "подъем / взбираться"
+  },
+  {
+    "id": 684,
+    "word": "cool",
+    "transcript": "[ kuːl ]",
+    "translate": "крутой / прохладно"
+  },
+  {
+    "id": 685,
+    "word": "design",
+    "transcript": "[ dɪˈzaɪn ]",
+    "translate": "дизайн"
+  },
+  {
+    "id": 686,
+    "word": "poor",
+    "transcript": "[ pɔː r]",
+    "translate": "бедный"
+  },
+  {
+    "id": 687,
+    "word": "lot",
+    "transcript": "[ lɒt ]",
+    "translate": "много"
+  },
+  {
+    "id": 688,
+    "word": "explain",
+    "transcript": "[ ɪkˈspleɪn ]",
+    "translate": "объяснять"
+  },
+  {
+    "id": 689,
+    "word": "bottom",
+    "transcript": "[ ˈbɒt. ə m ]",
+    "translate": "низ"
+  },
+  {
+    "id": 690,
+    "word": "key",
+    "transcript": "[ kiː ]",
+    "translate": "ключ"
+  },
+  {
+    "id": 691,
+    "word": "iron",
+    "transcript": "[ aɪən ]",
+    "translate": "железо"
+  },
+  {
+    "id": 692,
+    "word": "single",
+    "transcript": "[ ˈsɪŋ.ɡ ə l ]",
+    "translate": "один"
+  },
+  {
+    "id": 693,
+    "word": "stick",
+    "transcript": "[ stɪk ]",
+    "translate": "придерживаться / приклеивать"
+  },
+  {
+    "id": 694,
+    "word": "flat",
+    "transcript": "[ flæt ]",
+    "translate": "квартира ( брит. ) / плоский"
+  },
+  {
+    "id": 695,
+    "word": "twenty",
+    "transcript": "[ ˈtwen.ti ]",
+    "translate": "двадцать"
+  },
+  {
+    "id": 696,
+    "word": "skin",
+    "transcript": "[ skɪn ]",
+    "translate": "кожа"
+  },
+  {
+    "id": 697,
+    "word": "smile",
+    "transcript": "[ smaɪl ]",
+    "translate": "улыбка"
+  },
+  {
+    "id": 698,
+    "word": "crease",
+    "transcript": "[ kriːs ]",
+    "translate": "складка / мять"
+  },
+  {
+    "id": 699,
+    "word": "hole",
+    "transcript": "[ həʊl ]",
+    "translate": "дыра"
+  },
+  {
+    "id": 700,
+    "word": "jump",
+    "transcript": "[ dʒʌmp ]",
+    "translate": "прыгать"
+  },
+  {
+    "id": 701,
+    "word": "baby",
+    "transcript": "[ ˈbeɪ.bi ]",
+    "translate": "ребенок"
+  },
+  {
+    "id": 702,
+    "word": "eight",
+    "transcript": "[ eɪt ]",
+    "translate": "восемь"
+  },
+  {
+    "id": 703,
+    "word": "village",
+    "transcript": "[ ˈvɪl.ɪdʒ ]",
+    "translate": "деревня"
+  },
+  {
+    "id": 704,
+    "word": "meet",
+    "transcript": "[ miːt ]",
+    "translate": "встречать"
+  },
+  {
+    "id": 705,
+    "word": "root",
+    "transcript": "[ ruːt ]",
+    "translate": "корень"
+  },
+  {
+    "id": 706,
+    "word": "buy",
+    "transcript": "[ baɪ ]",
+    "translate": "покупать"
+  },
+  {
+    "id": 707,
+    "word": "raise",
+    "transcript": "[ reɪz ]",
+    "translate": "поднимать / повышать"
+  },
+  {
+    "id": 708,
+    "word": "solve",
+    "transcript": "[ sɒlv ]",
+    "translate": "решать"
+  },
+  {
+    "id": 709,
+    "word": "metal",
+    "transcript": "[ ˈmet. ə l ]",
+    "translate": "металл"
+  },
+  {
+    "id": 710,
+    "word": "whether",
+    "transcript": "[ ˈweð.ə r]",
+    "translate": "будь то / ли"
+  },
+  {
+    "id": 711,
+    "word": "push",
+    "transcript": "[ pʊʃ ]",
+    "translate": "давить / нажимать"
+  },
+  {
+    "id": 712,
+    "word": "seven",
+    "transcript": "[ ˈsev. ə n ]",
+    "translate": "семь"
+  },
+  {
+    "id": 713,
+    "word": "paragraph",
+    "transcript": "[ ˈpær.ə.ɡrɑːf ]",
+    "translate": "параграф"
+  },
+  {
+    "id": 714,
+    "word": "third",
+    "transcript": "[ θɜːd ]",
+    "translate": "третий"
+  },
+  {
+    "id": 715,
+    "word": "shall",
+    "transcript": "[ ʃæl ]",
+    "translate": "должен"
+  },
+  {
+    "id": 716,
+    "word": "held",
+    "transcript": "[ held ]",
+    "translate": "держал"
+  },
+  {
+    "id": 717,
+    "word": "hair",
+    "transcript": "[ heə r]",
+    "translate": "волосы"
+  },
+  {
+    "id": 718,
+    "word": "describe",
+    "transcript": "[ dɪˈskraɪb ]",
+    "translate": "описывать"
+  },
+  {
+    "id": 719,
+    "word": "cook",
+    "transcript": "[ kʊk ]",
+    "translate": "готовить"
+  },
+  {
+    "id": 720,
+    "word": "floor",
+    "transcript": "[ flɔː r]",
+    "translate": "пол"
+  },
+  {
+    "id": 721,
+    "word": "either",
+    "transcript": "[ ˈaɪ.ðə r]",
+    "translate": "или"
+  },
+  {
+    "id": 722,
+    "word": "result",
+    "transcript": "[ rɪˈzʌlt ]",
+    "translate": "результат"
+  },
+  {
+    "id": 723,
+    "word": "burn",
+    "transcript": "[ bɜːn ]",
+    "translate": "гореть / ожог"
+  },
+  {
+    "id": 724,
+    "word": "hill",
+    "transcript": "[ hɪl ]",
+    "translate": "холм"
+  },
+  {
+    "id": 725,
+    "word": "safe",
+    "transcript": "[ seɪf ]",
+    "translate": "безопасный"
+  },
+  {
+    "id": 726,
+    "word": "cat",
+    "transcript": "[ kæt ]",
+    "translate": "кот / кошка"
+  },
+  {
+    "id": 727,
+    "word": "century",
+    "transcript": "[ ˈsen.tʃ ə r.i ]",
+    "translate": "век / столетие"
+  },
+  {
+    "id": 728,
+    "word": "consider",
+    "transcript": "[ kənˈsɪd.ə r]",
+    "translate": "рассматривать"
+  },
+  {
+    "id": 729,
+    "word": "type",
+    "transcript": "[ taɪp ]",
+    "translate": "тип / печатать"
+  },
+  {
+    "id": 730,
+    "word": "law",
+    "transcript": "[ lɔː ]",
+    "translate": "закон"
+  },
+  {
+    "id": 731,
+    "word": "bit",
+    "transcript": "[ bɪt ]",
+    "translate": "немного / часть"
+  },
+  {
+    "id": 732,
+    "word": "coast",
+    "transcript": "[ kəʊst ]",
+    "translate": "берег"
+  },
+  {
+    "id": 733,
+    "word": "copy",
+    "transcript": "[ ˈkɒp.i ]",
+    "translate": "копировать / копия"
+  },
+  {
+    "id": 734,
+    "word": "phrase",
+    "transcript": "[ freɪz ]",
+    "translate": "фраза / формулировать"
+  },
+  {
+    "id": 735,
+    "word": "silent",
+    "transcript": "[ ˈsaɪlənt ]",
+    "translate": "тихий"
+  },
+  {
+    "id": 736,
+    "word": "tall",
+    "transcript": "[ tɔːl ]",
+    "translate": "высокий"
+  },
+  {
+    "id": 737,
+    "word": "sand",
+    "transcript": "[ sænd ]",
+    "translate": "песок"
+  },
+  {
+    "id": 738,
+    "word": "soil",
+    "transcript": "[ sɔɪl ]",
+    "translate": "почва"
+  },
+  {
+    "id": 739,
+    "word": "roll",
+    "transcript": "[ rəʊl ]",
+    "translate": "вертеть"
+  },
+  {
+    "id": 740,
+    "word": "temperature",
+    "transcript": "[ ˈtem.prə.tʃə r]",
+    "translate": "температура"
+  },
+  {
+    "id": 741,
+    "word": "finger",
+    "transcript": "[ ˈfɪŋ.ɡə r]",
+    "translate": "палец"
+  },
+  {
+    "id": 742,
+    "word": "industry",
+    "transcript": "[ ˈɪn.də.stri ]",
+    "translate": "индустрия"
+  },
+  {
+    "id": 743,
+    "word": "value",
+    "transcript": "[ ˈvæl.juː ]",
+    "translate": "значение / стоимость / ценность"
+  },
+  {
+    "id": 744,
+    "word": "fight",
+    "transcript": "[ faɪt ]",
+    "translate": "драка / бороться"
+  },
+  {
+    "id": 745,
+    "word": "lie",
+    "transcript": "[ laɪ ]",
+    "translate": "ложь / лгать"
+  },
+  {
+    "id": 746,
+    "word": "beat",
+    "transcript": "[ biːt ]",
+    "translate": "бить / ритм"
+  },
+  {
+    "id": 747,
+    "word": "excite",
+    "transcript": "[ ɪkˈsaɪt ]",
+    "translate": "возбуждать"
+  },
+  {
+    "id": 748,
+    "word": "natural",
+    "transcript": "[ˈnætʃ.ər.əl / ]",
+    "translate": "натуральный"
+  },
+  {
+    "id": 749,
+    "word": "view",
+    "transcript": "[ vjuː ]",
+    "translate": "вид"
+  },
+  {
+    "id": 750,
+    "word": "sense",
+    "transcript": "[ sens ]",
+    "translate": "смысл / чувство"
+  },
+  {
+    "id": 751,
+    "word": "capital",
+    "transcript": "[ ˈkæp.ɪ.t ə l ]",
+    "translate": "столица"
+  },
+  {
+    "id": 752,
+    "word": "won’t",
+    "transcript": "[ wəʊnt ]",
+    "translate": "не будет"
+  },
+  {
+    "id": 753,
+    "word": "chair",
+    "transcript": "[ tʃeə r]",
+    "translate": "стул"
+  },
+  {
+    "id": 754,
+    "word": "danger",
+    "transcript": "[ ˈdeɪn.dʒə r]",
+    "translate": "опасность"
+  },
+  {
+    "id": 755,
+    "word": "fruit",
+    "transcript": "[ fruːt ]",
+    "translate": "фрукт"
+  },
+  {
+    "id": 756,
+    "word": "rich",
+    "transcript": "[ rɪtʃ ]",
+    "translate": "богатый"
+  },
+  {
+    "id": 757,
+    "word": "thick",
+    "transcript": "[ θɪk ]",
+    "translate": "толстый"
+  },
+  {
+    "id": 758,
+    "word": "soldier",
+    "transcript": "[ ˈsəʊl.dʒə r]",
+    "translate": "солдат"
+  },
+  {
+    "id": 759,
+    "word": "process",
+    "transcript": "[ ˈprəʊ.ses ]",
+    "translate": "процесс / подвергать обработке"
+  },
+  {
+    "id": 760,
+    "word": "operate",
+    "transcript": "[ ˈɒp. ə r.eɪt ]",
+    "translate": "управлять"
+  },
+  {
+    "id": 761,
+    "word": "practice",
+    "transcript": "[ ˈpræk.tɪs ]",
+    "translate": "практиковать / практика"
+  },
+  {
+    "id": 762,
+    "word": "separate",
+    "transcript": "[ ˈsep ə reɪt ]",
+    "translate": "разделять"
+  },
+  {
+    "id": 763,
+    "word": "difficult",
+    "transcript": "[ ˈdɪf.ɪ.k ə lt ]",
+    "translate": "сложный"
+  },
+  {
+    "id": 764,
+    "word": "doctor",
+    "transcript": "[ ˈdɒk.tə r]",
+    "translate": "доктор"
+  },
+  {
+    "id": 765,
+    "word": "please",
+    "transcript": "[ pliːz ]",
+    "translate": "пожалуйста / угождать"
+  },
+  {
+    "id": 766,
+    "word": "protect",
+    "transcript": "[ prəˈtekt ]",
+    "translate": "защищать"
+  },
+  {
+    "id": 767,
+    "word": "noon",
+    "transcript": "[ nuːn ]",
+    "translate": "полдень"
+  },
+  {
+    "id": 768,
+    "word": "crop",
+    "transcript": "[ krɒp ]",
+    "translate": "обрезать / урожай"
+  },
+  {
+    "id": 769,
+    "word": "modern",
+    "transcript": "[ ˈmɒd. ə n ]",
+    "translate": "современный"
+  },
+  {
+    "id": 770,
+    "word": "element",
+    "transcript": "[ ˈel.ɪ.mənt ]",
+    "translate": "элемент"
+  },
+  {
+    "id": 771,
+    "word": "hit",
+    "transcript": "[ hɪt ]",
+    "translate": "удар / бить"
+  },
+  {
+    "id": 772,
+    "word": "student",
+    "transcript": "[ ˈstjuː.d ə nt ]",
+    "translate": "студент"
+  },
+  {
+    "id": 773,
+    "word": "corner",
+    "transcript": "[ ˈkɔː.nə r]",
+    "translate": "угол"
+  },
+  {
+    "id": 774,
+    "word": "party",
+    "transcript": "[ ˈpɑː.ti ]",
+    "translate": "вечеринка / партия"
+  },
+  {
+    "id": 775,
+    "word": "supply",
+    "transcript": "[ səˈplaɪ ]",
+    "translate": "поставка / снабжать"
+  },
+  {
+    "id": 776,
+    "word": "whose",
+    "transcript": "[ huːz ]",
+    "translate": "чьи"
+  },
+  {
+    "id": 777,
+    "word": "locate",
+    "transcript": "[ ləʊˈkeɪt ]",
+    "translate": "размещать"
+  },
+  {
+    "id": 778,
+    "word": "ring",
+    "transcript": "[ rɪŋ ]",
+    "translate": "кольцо"
+  },
+  {
+    "id": 779,
+    "word": "character",
+    "transcript": "[ ˈkær.ək.tə r]",
+    "translate": "персонаж / характер"
+  },
+  {
+    "id": 780,
+    "word": "insect",
+    "transcript": "[ ˈɪn.sekt ]",
+    "translate": "насекомое"
+  },
+  {
+    "id": 781,
+    "word": "caught",
+    "transcript": "[ kɔːt ]",
+    "translate": "поймал / пойманный"
+  },
+  {
+    "id": 782,
+    "word": "period",
+    "transcript": "[ ˈpɪə.ri.əd ]",
+    "translate": "период / точка"
+  },
+  {
+    "id": 783,
+    "word": "indicate",
+    "transcript": "[ ˈɪn.dɪ.keɪt ]",
+    "translate": "указывать"
+  },
+  {
+    "id": 784,
+    "word": "radio",
+    "transcript": "[ ˈreɪ.di.əʊ ]",
+    "translate": "радио"
+  },
+  {
+    "id": 785,
+    "word": "spoke",
+    "transcript": "[ spəʊk ]",
+    "translate": "говорил"
+  },
+  {
+    "id": 786,
+    "word": "atom",
+    "transcript": "[ ˈæt.əm ]",
+    "translate": "атом"
+  },
+  {
+    "id": 787,
+    "word": "human",
+    "transcript": "[ ˈhjuː.mən ]",
+    "translate": "человек"
+  },
+  {
+    "id": 788,
+    "word": "history",
+    "transcript": "[ ˈhɪs.t ə r.i ]",
+    "translate": "история"
+  },
+  {
+    "id": 789,
+    "word": "effect",
+    "transcript": "[ ɪˈfekt ]",
+    "translate": "эффект / следствие"
+  },
+  {
+    "id": 790,
+    "word": "electric",
+    "transcript": "[ iˈlek.trɪk ]",
+    "translate": "электрический"
+  },
+  {
+    "id": 791,
+    "word": "expect",
+    "transcript": "[ ɪkˈspekt ]",
+    "translate": "ожидать"
+  },
+  {
+    "id": 792,
+    "word": "bone",
+    "transcript": "[ bəʊn ]",
+    "translate": "кость"
+  },
+  {
+    "id": 793,
+    "word": "rail",
+    "transcript": "[ reɪl ]",
+    "translate": "рельс / железнодорожный путь"
+  },
+  {
+    "id": 794,
+    "word": "imagine",
+    "transcript": "[ ɪˈmædʒ.ɪn ]",
+    "translate": "представлять"
+  },
+  {
+    "id": 795,
+    "word": "provide",
+    "transcript": "[ prəˈvaɪd ]",
+    "translate": "предоставлять"
+  },
+  {
+    "id": 796,
+    "word": "agree",
+    "transcript": "[ əˈɡriː ]",
+    "translate": "соглашаться"
+  },
+  {
+    "id": 797,
+    "word": "thus",
+    "transcript": "[ ðʌs ]",
+    "translate": "таким образом"
+  },
+  {
+    "id": 798,
+    "word": "gentle",
+    "transcript": "[ ˈdʒen.t ə l ]",
+    "translate": "нежный"
+  },
+  {
+    "id": 799,
+    "word": "woman",
+    "transcript": "[ ˈwʊm.ən ]",
+    "translate": "женщина"
+  },
+  {
+    "id": 800,
+    "word": "captain",
+    "transcript": "[ ˈkæp.tɪn ]",
+    "translate": "капитан"
+  },
+  {
+    "id": 801,
+    "word": "guess",
+    "transcript": "[ ɡes ]",
+    "translate": "предположение / угадывать"
+  },
+  {
+    "id": 802,
+    "word": "necessary",
+    "transcript": "[ ˈnes.ə.ser.i ]",
+    "translate": "необходимый"
+  },
+  {
+    "id": 803,
+    "word": "sharp",
+    "transcript": "[ ʃɑːp ]",
+    "translate": "острый / умный / стильный (о человеке)"
+  },
+  {
+    "id": 804,
+    "word": "wing",
+    "transcript": "[ wɪŋ ]",
+    "translate": "крыло"
+  },
+  {
+    "id": 805,
+    "word": "create",
+    "transcript": "[ kriˈeɪt ]",
+    "translate": "создавать"
+  },
+  {
+    "id": 806,
+    "word": "neighbour",
+    "transcript": "[ ˈneɪ.bə r]",
+    "translate": "сосед"
+  },
+  {
+    "id": 807,
+    "word": "wash",
+    "transcript": "[ wɒʃ ]",
+    "translate": "мыть"
+  },
+  {
+    "id": 808,
+    "word": "bat",
+    "transcript": "[ bæt ]",
+    "translate": "летучая мышь / бита"
+  },
+  {
+    "id": 809,
+    "word": "rather",
+    "transcript": "[ ˈrɑː.ðə r]",
+    "translate": "скорее"
+  },
+  {
+    "id": 810,
+    "word": "crowd",
+    "transcript": "[ kraʊd ]",
+    "translate": "толпа"
+  },
+  {
+    "id": 811,
+    "word": "corn",
+    "transcript": "[ kɔːn ]",
+    "translate": "кукуруза"
+  },
+  {
+    "id": 812,
+    "word": "compare",
+    "transcript": "[ kəmˈpeə r]",
+    "translate": "сравнивать"
+  },
+  {
+    "id": 813,
+    "word": "poem",
+    "transcript": "[ ˈpəʊ.ɪm ]",
+    "translate": "стих"
+  },
+  {
+    "id": 814,
+    "word": "string",
+    "transcript": "[ strɪŋ ]",
+    "translate": "струна"
+  },
+  {
+    "id": 815,
+    "word": "bell",
+    "transcript": "[ bel ]",
+    "translate": "колокол"
+  },
+  {
+    "id": 816,
+    "word": "depend",
+    "transcript": "[ dɪˈpend ]",
+    "translate": "зависеть"
+  },
+  {
+    "id": 817,
+    "word": "meat",
+    "transcript": "[ miːt ]",
+    "translate": "мясо"
+  },
+  {
+    "id": 818,
+    "word": "rub",
+    "transcript": "[ rʌb ]",
+    "translate": "тереть"
+  },
+  {
+    "id": 819,
+    "word": "tube",
+    "transcript": "[ tʃuːb ]",
+    "translate": "трубка / метро (в Лондоне)"
+  },
+  {
+    "id": 820,
+    "word": "famous",
+    "transcript": "[ ˈfeɪ.məs ]",
+    "translate": "известный"
+  },
+  {
+    "id": 821,
+    "word": "dollar",
+    "transcript": "[ ˈdɒl.ə r]",
+    "translate": "доллар"
+  },
+  {
+    "id": 822,
+    "word": "stream",
+    "transcript": "[ striːm ]",
+    "translate": "поток / течь"
+  },
+  {
+    "id": 823,
+    "word": "fear",
+    "transcript": "[ fɪə r]",
+    "translate": "страх / бояться"
+  },
+  {
+    "id": 824,
+    "word": "sight",
+    "transcript": "[ saɪt ]",
+    "translate": "взгляд / вид / зрение"
+  },
+  {
+    "id": 825,
+    "word": "thin",
+    "transcript": "[ θɪn ]",
+    "translate": "тонкий"
+  },
+  {
+    "id": 826,
+    "word": "triangle",
+    "transcript": "[ ˈtraɪ.æŋ.ɡ ə l ]",
+    "translate": "треугольник"
+  },
+  {
+    "id": 827,
+    "word": "planet",
+    "transcript": "[ ˈplæn.ɪt ]",
+    "translate": "планета"
+  },
+  {
+    "id": 828,
+    "word": "hurry",
+    "transcript": "[ ˈhʌr.i ]",
+    "translate": "торопиться / спешка"
+  },
+  {
+    "id": 829,
+    "word": "chief",
+    "transcript": "[ tʃiːf ]",
+    "translate": "шеф"
+  },
+  {
+    "id": 830,
+    "word": "colony",
+    "transcript": "[ ˈkɒl.ə.ni ]",
+    "translate": "колония"
+  },
+  {
+    "id": 831,
+    "word": "clock",
+    "transcript": "[ klɒk ]",
+    "translate": "часы"
+  },
+  {
+    "id": 832,
+    "word": "mine",
+    "transcript": "[ maɪn ]",
+    "translate": "мой"
+  },
+  {
+    "id": 833,
+    "word": "tie",
+    "transcript": "[ taɪ ]",
+    "translate": "галстук / завязывать"
+  },
+  {
+    "id": 834,
+    "word": "enter",
+    "transcript": "[ ˈen.tə r]",
+    "translate": "вход / входить"
+  },
+  {
+    "id": 835,
+    "word": "major",
+    "transcript": "[ ˈmeɪ.dʒə r]",
+    "translate": "майор / основной"
+  },
+  {
+    "id": 836,
+    "word": "fresh",
+    "transcript": "[ freʃ ]",
+    "translate": "свежий"
+  },
+  {
+    "id": 837,
+    "word": "search",
+    "transcript": "[ sɜːtʃ ]",
+    "translate": "поиск / искать"
+  },
+  {
+    "id": 838,
+    "word": "send",
+    "transcript": "[ send ]",
+    "translate": "посылать"
+  },
+  {
+    "id": 839,
+    "word": "yellow",
+    "transcript": "[ ˈjel.əʊ ]",
+    "translate": "желтый"
+  },
+  {
+    "id": 840,
+    "word": "gun",
+    "transcript": "[ ɡʌn ]",
+    "translate": "пистолет / ружье"
+  },
+  {
+    "id": 841,
+    "word": "allow",
+    "transcript": "[ əˈlaʊ ]",
+    "translate": "позволять"
+  },
+  {
+    "id": 842,
+    "word": "print",
+    "transcript": "[ prɪnt ]",
+    "translate": "печать / печатать"
+  },
+  {
+    "id": 843,
+    "word": "dead",
+    "transcript": "[ ded ]",
+    "translate": "мертвый"
+  },
+  {
+    "id": 844,
+    "word": "spot",
+    "transcript": "[ spɒt ]",
+    "translate": "место / пятно"
+  },
+  {
+    "id": 845,
+    "word": "desert",
+    "transcript": "[ ˈdez.ət ]",
+    "translate": "пустыня"
+  },
+  {
+    "id": 846,
+    "word": "suit",
+    "transcript": "[ suːt ]",
+    "translate": "костюм / подходить"
+  },
+  {
+    "id": 847,
+    "word": "current",
+    "transcript": "[ ˈkʌr. ə nt ]",
+    "translate": "текущий"
+  },
+  {
+    "id": 848,
+    "word": "lift",
+    "transcript": "[ lɪft ]",
+    "translate": "поднимать / лифт ( брит. )"
+  },
+  {
+    "id": 849,
+    "word": "rose",
+    "transcript": "[ rəʊz ]",
+    "translate": "роза"
+  },
+  {
+    "id": 850,
+    "word": "arrive",
+    "transcript": "[ əˈraɪv ]",
+    "translate": "прибывать"
+  },
+  {
+    "id": 851,
+    "word": "master",
+    "transcript": "[ ˈmɑː.stə r]",
+    "translate": "мастер / главный / справляться"
+  },
+  {
+    "id": 852,
+    "word": "track",
+    "transcript": "[ træk ]",
+    "translate": "трек / след"
+  },
+  {
+    "id": 853,
+    "word": "parent",
+    "transcript": "[ ˈpeə.r ə nt ]",
+    "translate": "родитель"
+  },
+  {
+    "id": 854,
+    "word": "shore",
+    "transcript": "[ ʃɔː r]",
+    "translate": "побережье"
+  },
+  {
+    "id": 855,
+    "word": "division",
+    "transcript": "[ dɪˈvɪʒ. ə n ]",
+    "translate": "деление"
+  },
+  {
+    "id": 856,
+    "word": "sheet",
+    "transcript": "[ ʃiːt ]",
+    "translate": "лист / простынь"
+  },
+  {
+    "id": 857,
+    "word": "substance",
+    "transcript": "[ ˈsʌb.st ə ns ]",
+    "translate": "вещество"
+  },
+  {
+    "id": 858,
+    "word": "favour",
+    "transcript": "[ ˈfeɪ.və r]",
+    "translate": "одолжение"
+  },
+  {
+    "id": 859,
+    "word": "connect",
+    "transcript": "[ kəˈnekt ]",
+    "translate": "соединять"
+  },
+  {
+    "id": 860,
+    "word": "post",
+    "transcript": "[ pəʊst ]",
+    "translate": "почта / после"
+  },
+  {
+    "id": 861,
+    "word": "spend",
+    "transcript": "[ spend ]",
+    "translate": "тратить"
+  },
+  {
+    "id": 862,
+    "word": "chord",
+    "transcript": "[ kɔːd ]",
+    "translate": "аккорд"
+  },
+  {
+    "id": 863,
+    "word": "fat",
+    "transcript": "[ fæt ]",
+    "translate": "жир / жирный"
+  },
+  {
+    "id": 864,
+    "word": "glad",
+    "transcript": "[ ɡlæd ]",
+    "translate": "рад"
+  },
+  {
+    "id": 865,
+    "word": "original",
+    "transcript": "[ əˈrɪdʒ. ə n. ə l ]",
+    "translate": "оригинальный"
+  },
+  {
+    "id": 866,
+    "word": "share",
+    "transcript": "[ ʃeə r ]",
+    "translate": "делиться"
+  },
+  {
+    "id": 867,
+    "word": "station",
+    "transcript": "[ ˈsteɪ.ʃ ə n ]",
+    "translate": "станция"
+  },
+  {
+    "id": 868,
+    "word": "dad",
+    "transcript": "[ dæd ]",
+    "translate": "папа"
+  },
+  {
+    "id": 869,
+    "word": "bread",
+    "transcript": "[ bred ]",
+    "translate": "хлеб"
+  },
+  {
+    "id": 870,
+    "word": "charge",
+    "transcript": "[ tʃɑːdʒ ]",
+    "translate": "заряд / заряжать"
+  },
+  {
+    "id": 871,
+    "word": "proper",
+    "transcript": "[ ˈprɒp.ə r]",
+    "translate": "правильный"
+  },
+  {
+    "id": 872,
+    "word": "bar",
+    "transcript": "[ bɑː r]",
+    "translate": "бар"
+  },
+  {
+    "id": 873,
+    "word": "offer",
+    "transcript": "[ ˈɒf.ə r]",
+    "translate": "предлагать / предложение"
+  },
+  {
+    "id": 874,
+    "word": "segment",
+    "transcript": "[ ˈseɡ.mənt ]",
+    "translate": "часть / сегмент"
+  },
+  {
+    "id": 875,
+    "word": "slave",
+    "transcript": "[ sleɪv ]",
+    "translate": "раб"
+  },
+  {
+    "id": 876,
+    "word": "duck",
+    "transcript": "[ dʌk ]",
+    "translate": "утка"
+  },
+  {
+    "id": 877,
+    "word": "instant",
+    "transcript": "[ ˈɪn.stənt ]",
+    "translate": "мгновенный"
+  },
+  {
+    "id": 878,
+    "word": "market",
+    "transcript": "[ ˈmɑː.kɪt ]",
+    "translate": "рынок"
+  },
+  {
+    "id": 879,
+    "word": "degree",
+    "transcript": "[ dɪˈɡriː ]",
+    "translate": "температура"
+  },
+  {
+    "id": 880,
+    "word": "populate",
+    "transcript": "[ ˈpɒp.jə.leɪt ]",
+    "translate": "населять"
+  },
+  {
+    "id": 881,
+    "word": "education",
+    "transcript": "[ ˌedʒ.uˈkeɪ.ʃ ə n ]",
+    "translate": "образование"
+  },
+  {
+    "id": 882,
+    "word": "dear",
+    "transcript": "[ dɪə r]",
+    "translate": "дорогая"
+  },
+  {
+    "id": 883,
+    "word": "enemy",
+    "transcript": "[ ˈen.ə.mi ]",
+    "translate": "враг"
+  },
+  {
+    "id": 884,
+    "word": "reply",
+    "transcript": "[ rɪˈplaɪ ]",
+    "translate": "ответ / отвечать"
+  },
+  {
+    "id": 885,
+    "word": "drink",
+    "transcript": "[ drɪŋk ]",
+    "translate": "напиток / пить"
+  },
+  {
+    "id": 886,
+    "word": "occur",
+    "transcript": "[ əˈkɜː r]",
+    "translate": "происходить"
+  },
+  {
+    "id": 887,
+    "word": "support",
+    "transcript": "[ səˈpɔːt ]",
+    "translate": "поддержка / поддерживать"
+  },
+  {
+    "id": 888,
+    "word": "speech",
+    "transcript": "[ spiːtʃ ]",
+    "translate": "речь"
+  },
+  {
+    "id": 889,
+    "word": "nature",
+    "transcript": "[ ˈneɪ.tʃə r]",
+    "translate": "природа"
+  },
+  {
+    "id": 890,
+    "word": "range",
+    "transcript": "[ reɪndʒ ]",
+    "translate": "диапазон"
+  },
+  {
+    "id": 891,
+    "word": "steam",
+    "transcript": "[ stiːm ]",
+    "translate": "пар"
+  },
+  {
+    "id": 892,
+    "word": "motion",
+    "transcript": "[ ˈməʊ.ʃ ə n ]",
+    "translate": "движение"
+  },
+  {
+    "id": 893,
+    "word": "path",
+    "transcript": "[ pɑːθ ]",
+    "translate": "путь"
+  },
+  {
+    "id": 894,
+    "word": "liquid",
+    "transcript": "[ ˈlɪk.wɪd ]",
+    "translate": "жидкость"
+  },
+  {
+    "id": 895,
+    "word": "violence",
+    "transcript": "[ ˈvaɪə.l ə ns ]",
+    "translate": "жестокость"
+  },
+  {
+    "id": 896,
+    "word": "meant",
+    "transcript": "[ ment ]",
+    "translate": "значил"
+  },
+  {
+    "id": 897,
+    "word": "quotient",
+    "transcript": "[ ˈkwəʊ.ʃ ə nt ]",
+    "translate": "частное"
+  },
+  {
+    "id": 898,
+    "word": "teeth",
+    "transcript": "[ tiːθ ]",
+    "translate": "зубы"
+  },
+  {
+    "id": 899,
+    "word": "shell",
+    "transcript": "[ ʃel ]",
+    "translate": "ракушка"
+  },
+  {
+    "id": 900,
+    "word": "neck",
+    "transcript": "[ nek ]",
+    "translate": "шея"
+  },
+  {
+    "id": 901,
+    "word": "oxygen",
+    "transcript": "[ ˈɒk.sɪ.dʒən ]",
+    "translate": "кислород"
+  },
+  {
+    "id": 902,
+    "word": "sugar",
+    "transcript": "[ ˈʃʊɡ.ə r]",
+    "translate": "сахар"
+  },
+  {
+    "id": 903,
+    "word": "death",
+    "transcript": "[ deθ ]",
+    "translate": "смерть"
+  },
+  {
+    "id": 904,
+    "word": "pretty",
+    "transcript": "[ ˈprɪt.i ]",
+    "translate": "красивый / довольно"
+  },
+  {
+    "id": 905,
+    "word": "skill",
+    "transcript": "[ skɪl ]",
+    "translate": "умение"
+  },
+  {
+    "id": 906,
+    "word": "women",
+    "transcript": "[ ˈwɪm.ɪn ]",
+    "translate": "женщины"
+  },
+  {
+    "id": 907,
+    "word": "season",
+    "transcript": "[ ˈsiː.z ə n ]",
+    "translate": "сезон / время года"
+  },
+  {
+    "id": 908,
+    "word": "solution",
+    "transcript": "[ səˈluː.ʃ ə n ]",
+    "translate": "решение"
+  },
+  {
+    "id": 909,
+    "word": "magnet",
+    "transcript": "[ ˈmæɡ.nət ]",
+    "translate": "магнит"
+  },
+  {
+    "id": 910,
+    "word": "silver",
+    "transcript": "[ ˈsɪl.və r]",
+    "translate": "серебро"
+  },
+  {
+    "id": 911,
+    "word": "thanks",
+    "transcript": "[ θæŋks ]",
+    "translate": "спасибо"
+  },
+  {
+    "id": 912,
+    "word": "lunch",
+    "transcript": "[ lʌntʃ ]",
+    "translate": "ужин"
+  },
+  {
+    "id": 913,
+    "word": "match",
+    "transcript": "[ mætʃ ]",
+    "translate": "совпадать / матч"
+  },
+  {
+    "id": 914,
+    "word": "treat",
+    "transcript": "[ triːt ]",
+    "translate": "угощение / обращаться"
+  },
+  {
+    "id": 915,
+    "word": "especially",
+    "transcript": "[ ɪˈspeʃ. ə l.i ]",
+    "translate": "особенно"
+  },
+  {
+    "id": 916,
+    "word": "fail",
+    "transcript": "[ feɪl ]",
+    "translate": "провал / терпеть провал"
+  },
+  {
+    "id": 917,
+    "word": "afraid",
+    "transcript": "[ əˈfreɪd ]",
+    "translate": "испуганный"
+  },
+  {
+    "id": 918,
+    "word": "huge",
+    "transcript": "[ hjuːdʒ ]",
+    "translate": "огромный"
+  },
+  {
+    "id": 919,
+    "word": "sister",
+    "transcript": "[ ˈsɪs.tə r]",
+    "translate": "сестра"
+  },
+  {
+    "id": 920,
+    "word": "steel",
+    "transcript": "[ stiːl ]",
+    "translate": "сталь"
+  },
+  {
+    "id": 921,
+    "word": "discuss",
+    "transcript": "[ dɪˈskʌs ]",
+    "translate": "обсуждать"
+  },
+  {
+    "id": 922,
+    "word": "forward",
+    "transcript": "[ ˈfɔː.wəd ]",
+    "translate": "вперед"
+  },
+  {
+    "id": 923,
+    "word": "similar",
+    "transcript": "[ ˈsɪm.ɪ.lə r]",
+    "translate": "похожий"
+  },
+  {
+    "id": 924,
+    "word": "guide",
+    "transcript": "[ ɡaɪd ]",
+    "translate": "руководство / направлять"
+  },
+  {
+    "id": 925,
+    "word": "experience",
+    "transcript": "[ ɪkˈspɪə.ri.əns ]",
+    "translate": "опыт"
+  },
+  {
+    "id": 926,
+    "word": "score",
+    "transcript": "[ skɔː r]",
+    "translate": "очки / счет"
+  },
+  {
+    "id": 927,
+    "word": "apple",
+    "transcript": "[ ˈæp. ə l ]",
+    "translate": "яблоко"
+  },
+  {
+    "id": 928,
+    "word": "evidence",
+    "transcript": "[ ˈev.ɪ.d ə ns ]",
+    "translate": "доказательства"
+  },
+  {
+    "id": 929,
+    "word": "message",
+    "transcript": "[ ˈmes.ɪdʒ ]",
+    "translate": "сообщение"
+  },
+  {
+    "id": 930,
+    "word": "movie",
+    "transcript": "[ ˈmuː.vi ]",
+    "translate": "фильм ( амер. )"
+  },
+  {
+    "id": 931,
+    "word": "coat",
+    "transcript": "[ kəʊt ]",
+    "translate": "пальто"
+  },
+  {
+    "id": 932,
+    "word": "mass",
+    "transcript": "[ mæs ]",
+    "translate": "масса"
+  },
+  {
+    "id": 933,
+    "word": "card",
+    "transcript": "[ kɑːd ]",
+    "translate": "карта"
+  },
+  {
+    "id": 934,
+    "word": "band",
+    "transcript": "[ bænd ]",
+    "translate": "группа"
+  },
+  {
+    "id": 935,
+    "word": "rope",
+    "transcript": "[ rəʊp ]",
+    "translate": "веревка"
+  },
+  {
+    "id": 936,
+    "word": "slip",
+    "transcript": "[ slɪp ]",
+    "translate": "скользить"
+  },
+  {
+    "id": 937,
+    "word": "win",
+    "transcript": "[ wɪn ]",
+    "translate": "побеждать"
+  },
+  {
+    "id": 938,
+    "word": "dream",
+    "transcript": "[ driːm ]",
+    "translate": "мечта / мечтать / сон"
+  },
+  {
+    "id": 939,
+    "word": "evening",
+    "transcript": "[ ˈiːv.nɪŋ ]",
+    "translate": "вечер"
+  },
+  {
+    "id": 940,
+    "word": "condition",
+    "transcript": "[ kənˈdɪʃ. ə n ]",
+    "translate": "состояние"
+  },
+  {
+    "id": 941,
+    "word": "feed",
+    "transcript": "[ fiːd ]",
+    "translate": "кормить"
+  },
+  {
+    "id": 942,
+    "word": "tool",
+    "transcript": "[ tuːl ]",
+    "translate": "инструмент"
+  },
+  {
+    "id": 943,
+    "word": "total",
+    "transcript": "[ ˈtəʊ.t ə l ]",
+    "translate": "сумма"
+  },
+  {
+    "id": 944,
+    "word": "basic",
+    "transcript": "[ ˈbeɪ.sɪk ]",
+    "translate": "базовый"
+  },
+  {
+    "id": 945,
+    "word": "smell",
+    "transcript": "[ smel ]",
+    "translate": "запах"
+  },
+  {
+    "id": 946,
+    "word": "valley",
+    "transcript": "[ ˈvæl.i ]",
+    "translate": "долина"
+  },
+  {
+    "id": 947,
+    "word": "not",
+    "transcript": "[ nɒt ]",
+    "translate": "не"
+  },
+  {
+    "id": 948,
+    "word": "double",
+    "transcript": "[ˈdʌb.əl]",
+    "translate": "двойной / вдвойне / двойник"
+  },
+  {
+    "id": 949,
+    "word": "seat",
+    "transcript": "[ siːt ]",
+    "translate": "место"
+  },
+  {
+    "id": 950,
+    "word": "continue",
+    "transcript": "[ kənˈtɪn.juː ]",
+    "translate": "продолжать"
+  },
+  {
+    "id": 951,
+    "word": "news",
+    "transcript": "[ njuːz ]",
+    "translate": "новости"
+  },
+  {
+    "id": 952,
+    "word": "police",
+    "transcript": "[ pəˈliːs ]",
+    "translate": "полиция"
+  },
+  {
+    "id": 953,
+    "word": "hat",
+    "transcript": "[ hæt ]",
+    "translate": "шляпа"
+  },
+  {
+    "id": 954,
+    "word": "sell",
+    "transcript": "[ sel ]",
+    "translate": "продавать"
+  },
+  {
+    "id": 955,
+    "word": "success",
+    "transcript": "[ səkˈses ]",
+    "translate": "успех"
+  },
+  {
+    "id": 956,
+    "word": "company",
+    "transcript": "[ ˈkʌm.pə.ni ]",
+    "translate": "компания"
+  },
+  {
+    "id": 957,
+    "word": "security",
+    "transcript": "[ sɪˈkjʊə.rə.ti ]",
+    "translate": "безопасность / охрана"
+  },
+  {
+    "id": 958,
+    "word": "event",
+    "transcript": "[ ɪˈvent ]",
+    "translate": "событие"
+  },
+  {
+    "id": 959,
+    "word": "particular",
+    "transcript": "[ pəˈtɪk.jə.lə r]",
+    "translate": "особенный / конкретный"
+  },
+  {
+    "id": 960,
+    "word": "deal",
+    "transcript": "[ diːl ]",
+    "translate": "сделка / часть / разбираться"
+  },
+  {
+    "id": 961,
+    "word": "swim",
+    "transcript": "[ swɪm ]",
+    "translate": "плавать"
+  },
+  {
+    "id": 962,
+    "word": "term",
+    "transcript": "[ tɜːm ]",
+    "translate": "срок / семестр / термин"
+  },
+  {
+    "id": 963,
+    "word": "opposite",
+    "transcript": "[ ˈɒp.ə.zɪt ]",
+    "translate": "напротив / противоположный"
+  },
+  {
+    "id": 964,
+    "word": "wife",
+    "transcript": "[ waɪf ]",
+    "translate": "жена"
+  },
+  {
+    "id": 965,
+    "word": "shoes",
+    "transcript": "[ ʃuːz ]",
+    "translate": "обувь / туфли"
+  },
+  {
+    "id": 966,
+    "word": "shoulders",
+    "transcript": "[ ˈʃəʊl.də r z ]",
+    "translate": "плечи"
+  },
+  {
+    "id": 967,
+    "word": "spread",
+    "transcript": "[ spred ]",
+    "translate": "распространение / распространять"
+  },
+  {
+    "id": 968,
+    "word": "arrange",
+    "transcript": "[ əˈreɪndʒ ]",
+    "translate": "организовывать"
+  },
+  {
+    "id": 969,
+    "word": "camp",
+    "transcript": "[ kæmp ]",
+    "translate": "лагерь"
+  },
+  {
+    "id": 970,
+    "word": "invent",
+    "transcript": "[ ɪnˈvent ]",
+    "translate": "изобретать"
+  },
+  {
+    "id": 971,
+    "word": "cotton",
+    "transcript": "[ ˈkɒt. ə n ]",
+    "translate": "хлопок"
+  },
+  {
+    "id": 972,
+    "word": "born",
+    "transcript": "[ bɔːn ]",
+    "translate": "родиться"
+  },
+  {
+    "id": 973,
+    "word": "determine",
+    "transcript": "[ dɪˈtɜː.mɪn ]",
+    "translate": "определять"
+  },
+  {
+    "id": 974,
+    "word": "quarter",
+    "transcript": "[ ˈkwɔː.tə r]",
+    "translate": "четверть"
+  },
+  {
+    "id": 975,
+    "word": "nine",
+    "transcript": "[ naɪn ]",
+    "translate": "девять"
+  },
+  {
+    "id": 976,
+    "word": "remove",
+    "transcript": "[ rɪˈmuːv ]",
+    "translate": "удалять"
+  },
+  {
+    "id": 977,
+    "word": "noise",
+    "transcript": "[ nɔɪz ]",
+    "translate": "шум"
+  },
+  {
+    "id": 978,
+    "word": "level",
+    "transcript": "[ ˈlev. ə l ]",
+    "translate": "уровень"
+  },
+  {
+    "id": 979,
+    "word": "chance",
+    "transcript": "[ tʃɑːns ]",
+    "translate": "шанс"
+  },
+  {
+    "id": 980,
+    "word": "gather",
+    "transcript": "[ ˈɡæð.ə r]",
+    "translate": "собирать"
+  },
+  {
+    "id": 981,
+    "word": "shop",
+    "transcript": "[ ʃɒp ]",
+    "translate": "магазин ( брит. )"
+  },
+  {
+    "id": 982,
+    "word": "stretch",
+    "transcript": "[ stretʃ ]",
+    "translate": "растягивать"
+  },
+  {
+    "id": 983,
+    "word": "throw",
+    "transcript": "[ θrəʊ ]",
+    "translate": "бросать"
+  },
+  {
+    "id": 984,
+    "word": "shine",
+    "transcript": "[ ʃaɪn ]",
+    "translate": "сиять"
+  },
+  {
+    "id": 985,
+    "word": "property",
+    "transcript": "[ ˈprɒp.ə.ti ]",
+    "translate": "собственность"
+  },
+  {
+    "id": 986,
+    "word": "issue",
+    "transcript": "[ ˈɪʃ.uː ]",
+    "translate": "проблема"
+  },
+  {
+    "id": 987,
+    "word": "legal",
+    "transcript": "[ ˈliː.ɡ ə l ]",
+    "translate": "законный"
+  },
+  {
+    "id": 988,
+    "word": "select",
+    "transcript": "[ sɪˈlekt ]",
+    "translate": "выбирать"
+  },
+  {
+    "id": 989,
+    "word": "wrong",
+    "transcript": "[ rɒŋ ]",
+    "translate": "неправильный"
+  },
+  {
+    "id": 990,
+    "word": "gray",
+    "transcript": "[ ɡreɪ ]",
+    "translate": "серый"
+  },
+  {
+    "id": 991,
+    "word": "repeat",
+    "transcript": "[ rɪˈpiːt ]",
+    "translate": "повторять"
+  },
+  {
+    "id": 992,
+    "word": "require",
+    "transcript": "[ rɪˈkwaɪə r]",
+    "translate": "требоваться"
+  },
+  {
+    "id": 993,
+    "word": "broad",
+    "transcript": "[ brɔːd ]",
+    "translate": "широкий"
+  },
+  {
+    "id": 994,
+    "word": "prepare",
+    "transcript": "[ prɪˈpeə r]",
+    "translate": "подготавливать"
+  },
+  {
+    "id": 995,
+    "word": "salt",
+    "transcript": "[ sɒlt ]",
+    "translate": "соль / соленый"
+  },
+  {
+    "id": 996,
+    "word": "nose",
+    "transcript": "[ nəʊz ]",
+    "translate": "нос"
+  },
+  {
+    "id": 997,
+    "word": "plural",
+    "transcript": "[ ˈplʊə.r ə l ]",
+    "translate": "множественное число"
+  },
+  {
+    "id": 998,
+    "word": "anger",
+    "transcript": "[ ˈæŋ.ɡə r]",
+    "translate": "гнев"
+  },
+  {
+    "id": 999,
+    "word": "claim",
+    "transcript": "[ kleɪm ]",
+    "translate": "запрос / требовать"
+  },
+  {
+    "id": 1000,
+    "word": "price",
+    "transcript": "[ praɪs ]",
+    "translate": "цена"
+  }
+]
